@@ -14,7 +14,7 @@ class Solution:
         for _ in range(n*m):
             res.append(mat[row][col])
             
-            if direction == 1:
+            if direction == 1:  # moving up-right
                 if col == m-1:
                     row += 1
                     direction = -1
@@ -24,7 +24,7 @@ class Solution:
                 else:
                     row -= 1
                     col += 1
-            else:
+            else: # moving down-left
                 if row == n-1:
                     col += 1
                     direction = 1
