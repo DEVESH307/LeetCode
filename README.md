@@ -39,6 +39,7 @@
 | [0009-palindrome-number](https://github.com/DEVESH307/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/DEVESH307/LeetCode/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/DEVESH307/LeetCode/tree/master/0189-rotate-array) |
+| [0412-fizz-buzz](https://github.com/DEVESH307/LeetCode/tree/master/0412-fizz-buzz) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/DEVESH307/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1512-number-of-good-pairs](https://github.com/DEVESH307/LeetCode/tree/master/1512-number-of-good-pairs) |
 ## String
@@ -46,6 +47,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/DEVESH307/LeetCode/tree/master/0013-roman-to-integer) |
 | [0344-reverse-string](https://github.com/DEVESH307/LeetCode/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/DEVESH307/LeetCode/tree/master/0412-fizz-buzz) |
 ## Sorting
 |  |
 | ------- |
@@ -66,4 +68,8 @@
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/DEVESH307/LeetCode/tree/master/1512-number-of-good-pairs) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/DEVESH307/LeetCode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
