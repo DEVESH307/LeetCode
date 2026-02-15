@@ -9,6 +9,7 @@
 | [0027-remove-element](https://github.com/DEVESH307/LeetCode/tree/master/0027-remove-element) |
 | [0136-single-number](https://github.com/DEVESH307/LeetCode/tree/master/0136-single-number) |
 | [0260-single-number-iii](https://github.com/DEVESH307/LeetCode/tree/master/0260-single-number-iii) |
+| [1200-minimum-absolute-difference](https://github.com/DEVESH307/LeetCode/tree/master/1200-minimum-absolute-difference) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -33,4 +34,8 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/DEVESH307/LeetCode/tree/master/0013-roman-to-integer) |
+## Sorting
+|  |
+| ------- |
+| [1200-minimum-absolute-difference](https://github.com/DEVESH307/LeetCode/tree/master/1200-minimum-absolute-difference) |
 <!---LeetCode Topics End-->
