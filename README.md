@@ -21,6 +21,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DEVESH307/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/DEVESH307/LeetCode/tree/master/0027-remove-element) |
+| [0344-reverse-string](https://github.com/DEVESH307/LeetCode/tree/master/0344-reverse-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -35,6 +36,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/DEVESH307/LeetCode/tree/master/0013-roman-to-integer) |
+| [0344-reverse-string](https://github.com/DEVESH307/LeetCode/tree/master/0344-reverse-string) |
 ## Sorting
 |  |
 | ------- |
