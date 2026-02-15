@@ -19,6 +19,7 @@
 | [1200-minimum-absolute-difference](https://github.com/DEVESH307/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/DEVESH307/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1512-number-of-good-pairs](https://github.com/DEVESH307/LeetCode/tree/master/1512-number-of-good-pairs) |
+| [1664-ways-to-make-a-fair-array](https://github.com/DEVESH307/LeetCode/tree/master/1664-ways-to-make-a-fair-array) |
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/DEVESH307/LeetCode/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Bit Manipulation
 |  |
@@ -106,4 +107,5 @@
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/DEVESH307/LeetCode/tree/master/0724-find-pivot-index) |
+| [1664-ways-to-make-a-fair-array](https://github.com/DEVESH307/LeetCode/tree/master/1664-ways-to-make-a-fair-array) |
 <!---LeetCode Topics End-->
