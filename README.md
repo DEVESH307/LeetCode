@@ -15,6 +15,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/DEVESH307/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1200-minimum-absolute-difference](https://github.com/DEVESH307/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1512-number-of-good-pairs](https://github.com/DEVESH307/LeetCode/tree/master/1512-number-of-good-pairs) |
+| [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/DEVESH307/LeetCode/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Bit Manipulation
 |  |
 | ------- |
