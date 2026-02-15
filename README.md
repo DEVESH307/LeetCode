@@ -21,6 +21,7 @@
 | ------- |
 | [0136-single-number](https://github.com/DEVESH307/LeetCode/tree/master/0136-single-number) |
 | [0260-single-number-iii](https://github.com/DEVESH307/LeetCode/tree/master/0260-single-number-iii) |
+| [2429-minimize-xor](https://github.com/DEVESH307/LeetCode/tree/master/2429-minimize-xor) |
 ## Two Pointers
 |  |
 | ------- |
@@ -73,4 +74,8 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/DEVESH307/LeetCode/tree/master/0412-fizz-buzz) |
+## Greedy
+|  |
+| ------- |
+| [2429-minimize-xor](https://github.com/DEVESH307/LeetCode/tree/master/2429-minimize-xor) |
 <!---LeetCode Topics End-->
