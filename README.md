@@ -14,6 +14,7 @@
 | [0260-single-number-iii](https://github.com/DEVESH307/LeetCode/tree/master/0260-single-number-iii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/DEVESH307/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0643-maximum-average-subarray-i](https://github.com/DEVESH307/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0994-rotting-oranges](https://github.com/DEVESH307/LeetCode/tree/master/0994-rotting-oranges) |
 | [1200-minimum-absolute-difference](https://github.com/DEVESH307/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1512-number-of-good-pairs](https://github.com/DEVESH307/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/DEVESH307/LeetCode/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -88,4 +89,12 @@
 |  |
 | ------- |
 | [2429-minimize-xor](https://github.com/DEVESH307/LeetCode/tree/master/2429-minimize-xor) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/DEVESH307/LeetCode/tree/master/0994-rotting-oranges) |
+## Matrix
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/DEVESH307/LeetCode/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
