@@ -9,6 +9,7 @@
 | [0027-remove-element](https://github.com/DEVESH307/LeetCode/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/DEVESH307/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/DEVESH307/LeetCode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/DEVESH307/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/DEVESH307/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0136-single-number](https://github.com/DEVESH307/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/DEVESH307/LeetCode/tree/master/0137-single-number-ii) |
@@ -98,6 +99,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/DEVESH307/LeetCode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/DEVESH307/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/DEVESH307/LeetCode/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/DEVESH307/LeetCode/tree/master/0412-fizz-buzz) |
 | [0498-diagonal-traverse](https://github.com/DEVESH307/LeetCode/tree/master/0498-diagonal-traverse) |
@@ -113,6 +115,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/DEVESH307/LeetCode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/DEVESH307/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/DEVESH307/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0498-diagonal-traverse](https://github.com/DEVESH307/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0994-rotting-oranges](https://github.com/DEVESH307/LeetCode/tree/master/0994-rotting-oranges) |
