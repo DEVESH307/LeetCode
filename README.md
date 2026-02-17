@@ -19,6 +19,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/DEVESH307/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/DEVESH307/LeetCode/tree/master/0724-find-pivot-index) |
 | [0994-rotting-oranges](https://github.com/DEVESH307/LeetCode/tree/master/0994-rotting-oranges) |
+| [1004-max-consecutive-ones-iii](https://github.com/DEVESH307/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1200-minimum-absolute-difference](https://github.com/DEVESH307/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/DEVESH307/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1512-number-of-good-pairs](https://github.com/DEVESH307/LeetCode/tree/master/1512-number-of-good-pairs) |
@@ -77,6 +78,7 @@
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/DEVESH307/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/DEVESH307/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -116,5 +118,10 @@
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/DEVESH307/LeetCode/tree/master/0724-find-pivot-index) |
+| [1004-max-consecutive-ones-iii](https://github.com/DEVESH307/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1664-ways-to-make-a-fair-array](https://github.com/DEVESH307/LeetCode/tree/master/1664-ways-to-make-a-fair-array) |
+## Binary Search
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/DEVESH307/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
