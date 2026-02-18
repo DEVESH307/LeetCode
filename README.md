@@ -77,6 +77,7 @@
 | [0836-rectangle-overlap](https://github.com/DEVESH307/LeetCode/tree/master/0836-rectangle-overlap) |
 | [1486-xor-operation-in-an-array](https://github.com/DEVESH307/LeetCode/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/DEVESH307/LeetCode/tree/master/1512-number-of-good-pairs) |
+| [2413-smallest-even-multiple](https://github.com/DEVESH307/LeetCode/tree/master/2413-smallest-even-multiple) |
 | [2965-find-missing-and-repeated-values](https://github.com/DEVESH307/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## String
 |  |
@@ -154,4 +155,8 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/DEVESH307/LeetCode/tree/master/0836-rectangle-overlap) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/DEVESH307/LeetCode/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
