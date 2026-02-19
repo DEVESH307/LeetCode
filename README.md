@@ -29,6 +29,7 @@
 | [0994-rotting-oranges](https://github.com/DEVESH307/LeetCode/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/DEVESH307/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1200-minimum-absolute-difference](https://github.com/DEVESH307/LeetCode/tree/master/1200-minimum-absolute-difference) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/DEVESH307/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/DEVESH307/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1512-number-of-good-pairs](https://github.com/DEVESH307/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1572-matrix-diagonal-sum](https://github.com/DEVESH307/LeetCode/tree/master/1572-matrix-diagonal-sum) |
@@ -68,6 +69,7 @@
 | [0169-majority-element](https://github.com/DEVESH307/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/DEVESH307/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/DEVESH307/LeetCode/tree/master/0268-missing-number) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/DEVESH307/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/DEVESH307/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [2965-find-missing-and-repeated-values](https://github.com/DEVESH307/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Math
@@ -125,6 +127,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/DEVESH307/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/DEVESH307/LeetCode/tree/master/0229-majority-element-ii) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/DEVESH307/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/DEVESH307/LeetCode/tree/master/1512-number-of-good-pairs) |
 ## Simulation
 |  |
