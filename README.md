@@ -124,6 +124,7 @@
 | [0344-reverse-string](https://github.com/DEVESH307/LeetCode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/DEVESH307/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/DEVESH307/LeetCode/tree/master/0412-fizz-buzz) |
+| [0520-detect-capital](https://github.com/DEVESH307/LeetCode/tree/master/0520-detect-capital) |
 | [0680-valid-palindrome-ii](https://github.com/DEVESH307/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0821-shortest-distance-to-a-character](https://github.com/DEVESH307/LeetCode/tree/master/0821-shortest-distance-to-a-character) |
 | [2129-capitalize-the-title](https://github.com/DEVESH307/LeetCode/tree/master/2129-capitalize-the-title) |
