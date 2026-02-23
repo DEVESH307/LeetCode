@@ -50,6 +50,7 @@
 | [1664-ways-to-make-a-fair-array](https://github.com/DEVESH307/LeetCode/tree/master/1664-ways-to-make-a-fair-array) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/DEVESH307/LeetCode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/DEVESH307/LeetCode/tree/master/2395-find-subarrays-with-equal-sum) |
+| [2425-bitwise-xor-of-all-pairings](https://github.com/DEVESH307/LeetCode/tree/master/2425-bitwise-xor-of-all-pairings) |
 | [2643-row-with-maximum-ones](https://github.com/DEVESH307/LeetCode/tree/master/2643-row-with-maximum-ones) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/DEVESH307/LeetCode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/DEVESH307/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
@@ -68,6 +69,7 @@
 | [0461-hamming-distance](https://github.com/DEVESH307/LeetCode/tree/master/0461-hamming-distance) |
 | [1486-xor-operation-in-an-array](https://github.com/DEVESH307/LeetCode/tree/master/1486-xor-operation-in-an-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/DEVESH307/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
+| [2425-bitwise-xor-of-all-pairings](https://github.com/DEVESH307/LeetCode/tree/master/2425-bitwise-xor-of-all-pairings) |
 | [2429-minimize-xor](https://github.com/DEVESH307/LeetCode/tree/master/2429-minimize-xor) |
 ## Two Pointers
 |  |
@@ -275,4 +277,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/DEVESH307/LeetCode/tree/master/0014-longest-common-prefix) |
+## Brainteaser
+|  |
+| ------- |
+| [2425-bitwise-xor-of-all-pairings](https://github.com/DEVESH307/LeetCode/tree/master/2425-bitwise-xor-of-all-pairings) |
 <!---LeetCode Topics End-->
