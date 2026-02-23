@@ -52,6 +52,7 @@
 | [2348-number-of-zero-filled-subarrays](https://github.com/DEVESH307/LeetCode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/DEVESH307/LeetCode/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/DEVESH307/LeetCode/tree/master/2425-bitwise-xor-of-all-pairings) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/DEVESH307/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2549-count-distinct-numbers-on-board](https://github.com/DEVESH307/LeetCode/tree/master/2549-count-distinct-numbers-on-board) |
 | [2643-row-with-maximum-ones](https://github.com/DEVESH307/LeetCode/tree/master/2643-row-with-maximum-ones) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/DEVESH307/LeetCode/tree/master/2956-find-common-elements-between-two-arrays) |
@@ -115,6 +116,7 @@
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/DEVESH307/LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2351-first-letter-to-appear-twice](https://github.com/DEVESH307/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/DEVESH307/LeetCode/tree/master/2395-find-subarrays-with-equal-sum) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/DEVESH307/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2549-count-distinct-numbers-on-board](https://github.com/DEVESH307/LeetCode/tree/master/2549-count-distinct-numbers-on-board) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/DEVESH307/LeetCode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/DEVESH307/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
@@ -183,6 +185,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/DEVESH307/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0992-subarrays-with-k-different-integers](https://github.com/DEVESH307/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/DEVESH307/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/DEVESH307/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Divide and Conquer
 |  |
 | ------- |
