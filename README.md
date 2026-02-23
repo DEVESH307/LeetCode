@@ -51,6 +51,7 @@
 | [2348-number-of-zero-filled-subarrays](https://github.com/DEVESH307/LeetCode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/DEVESH307/LeetCode/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/DEVESH307/LeetCode/tree/master/2425-bitwise-xor-of-all-pairings) |
+| [2549-count-distinct-numbers-on-board](https://github.com/DEVESH307/LeetCode/tree/master/2549-count-distinct-numbers-on-board) |
 | [2643-row-with-maximum-ones](https://github.com/DEVESH307/LeetCode/tree/master/2643-row-with-maximum-ones) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/DEVESH307/LeetCode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/DEVESH307/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
@@ -112,6 +113,7 @@
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/DEVESH307/LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2351-first-letter-to-appear-twice](https://github.com/DEVESH307/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/DEVESH307/LeetCode/tree/master/2395-find-subarrays-with-equal-sum) |
+| [2549-count-distinct-numbers-on-board](https://github.com/DEVESH307/LeetCode/tree/master/2549-count-distinct-numbers-on-board) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/DEVESH307/LeetCode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/DEVESH307/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Math
@@ -133,6 +135,7 @@
 | [2063-vowels-of-all-substrings](https://github.com/DEVESH307/LeetCode/tree/master/2063-vowels-of-all-substrings) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/DEVESH307/LeetCode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2413-smallest-even-multiple](https://github.com/DEVESH307/LeetCode/tree/master/2413-smallest-even-multiple) |
+| [2549-count-distinct-numbers-on-board](https://github.com/DEVESH307/LeetCode/tree/master/2549-count-distinct-numbers-on-board) |
 | [2965-find-missing-and-repeated-values](https://github.com/DEVESH307/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## String
 |  |
@@ -209,6 +212,7 @@
 | [0067-add-binary](https://github.com/DEVESH307/LeetCode/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/DEVESH307/LeetCode/tree/master/0412-fizz-buzz) |
 | [0498-diagonal-traverse](https://github.com/DEVESH307/LeetCode/tree/master/0498-diagonal-traverse) |
+| [2549-count-distinct-numbers-on-board](https://github.com/DEVESH307/LeetCode/tree/master/2549-count-distinct-numbers-on-board) |
 ## Greedy
 |  |
 | ------- |
