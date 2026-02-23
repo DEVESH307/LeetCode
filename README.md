@@ -37,6 +37,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/DEVESH307/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/DEVESH307/LeetCode/tree/master/0724-find-pivot-index) |
 | [0821-shortest-distance-to-a-character](https://github.com/DEVESH307/LeetCode/tree/master/0821-shortest-distance-to-a-character) |
+| [0910-smallest-range-ii](https://github.com/DEVESH307/LeetCode/tree/master/0910-smallest-range-ii) |
 | [0953-verifying-an-alien-dictionary](https://github.com/DEVESH307/LeetCode/tree/master/0953-verifying-an-alien-dictionary) |
 | [0992-subarrays-with-k-different-integers](https://github.com/DEVESH307/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/DEVESH307/LeetCode/tree/master/0994-rotting-oranges) |
@@ -134,6 +135,7 @@
 | [0523-continuous-subarray-sum](https://github.com/DEVESH307/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0836-rectangle-overlap](https://github.com/DEVESH307/LeetCode/tree/master/0836-rectangle-overlap) |
 | [0878-nth-magical-number](https://github.com/DEVESH307/LeetCode/tree/master/0878-nth-magical-number) |
+| [0910-smallest-range-ii](https://github.com/DEVESH307/LeetCode/tree/master/0910-smallest-range-ii) |
 | [1486-xor-operation-in-an-array](https://github.com/DEVESH307/LeetCode/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/DEVESH307/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [2063-vowels-of-all-substrings](https://github.com/DEVESH307/LeetCode/tree/master/2063-vowels-of-all-substrings) |
@@ -173,6 +175,7 @@
 | [0229-majority-element-ii](https://github.com/DEVESH307/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/DEVESH307/LeetCode/tree/master/0268-missing-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/DEVESH307/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0910-smallest-range-ii](https://github.com/DEVESH307/LeetCode/tree/master/0910-smallest-range-ii) |
 | [1200-minimum-absolute-difference](https://github.com/DEVESH307/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/DEVESH307/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/DEVESH307/LeetCode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -225,6 +228,7 @@
 | ------- |
 | [0179-largest-number](https://github.com/DEVESH307/LeetCode/tree/master/0179-largest-number) |
 | [0680-valid-palindrome-ii](https://github.com/DEVESH307/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [0910-smallest-range-ii](https://github.com/DEVESH307/LeetCode/tree/master/0910-smallest-range-ii) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/DEVESH307/LeetCode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [2429-minimize-xor](https://github.com/DEVESH307/LeetCode/tree/master/2429-minimize-xor) |
 ## Breadth-First Search
