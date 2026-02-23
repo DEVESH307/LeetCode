@@ -1,3 +1,34 @@
+
+# class Solution:
+#     def maximumSubarraySum(self, nums, k):
+#         seen = set()
+#         left = 0
+#         window_sum = 0
+#         ans = 0
+
+#         for right, val in enumerate(nums):
+
+#             # remove until distinct
+#             while val in seen:
+#                 seen.remove(nums[left])
+#                 window_sum -= nums[left]
+#                 left += 1
+
+#             seen.add(val)
+#             window_sum += val
+
+#             # keep window size ≤ k
+#             if right - left + 1 > k:
+#                 seen.remove(nums[left])
+#                 window_sum -= nums[left]
+#                 left += 1
+
+#             if right - left + 1 == k:
+#                 ans = max(ans, window_sum)
+
+#         return ans
+
+
 class Solution:
     def maximumSubarraySum(self, nums: List[int], k: int) -> int:
         freq = {}
@@ -24,6 +55,3 @@ class Solution:
 
         return ans
             
-
-
-        
