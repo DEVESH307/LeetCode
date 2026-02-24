@@ -82,6 +82,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DEVESH307/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/DEVESH307/LeetCode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/DEVESH307/LeetCode/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/DEVESH307/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/DEVESH307/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/DEVESH307/LeetCode/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/DEVESH307/LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -150,6 +151,7 @@
 | [0013-roman-to-integer](https://github.com/DEVESH307/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/DEVESH307/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/DEVESH307/LeetCode/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/DEVESH307/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/DEVESH307/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/DEVESH307/LeetCode/tree/master/0179-largest-number) |
 | [0344-reverse-string](https://github.com/DEVESH307/LeetCode/tree/master/0344-reverse-string) |
