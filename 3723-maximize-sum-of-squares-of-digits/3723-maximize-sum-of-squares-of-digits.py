@@ -15,18 +15,33 @@
 #         return ""
 
 
+# class Solution:
+#     def maxSumOfSquares(self, num: int, sum: int) -> str:
+#         if sum > 9 * num or sum <= 0:
+#             return ""
+
+#         res = []
+#         for _ in range(num):
+#             digit = min(9, sum)
+#             res.append(str(digit))
+#             sum -= digit
+
+#         return "".join(res)
+
+
 class Solution:
     def maxSumOfSquares(self, num: int, sum: int) -> str:
         if sum > 9 * num or sum <= 0:
             return ""
 
-        res = []
-        for _ in range(num):
-            digit = min(9, sum)
-            res.append(str(digit))
-            sum -= digit
+        nines = sum // 9
+        remainder = sum % 9
 
-        return "".join(res)
+        result = "9" * nines
 
+        if remainder:
+            result += str(remainder)
 
-        
+        result += "0" * (num - len(result))
+
+        return result     
