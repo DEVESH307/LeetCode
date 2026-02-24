@@ -150,6 +150,7 @@
 | [2413-smallest-even-multiple](https://github.com/DEVESH307/LeetCode/tree/master/2413-smallest-even-multiple) |
 | [2549-count-distinct-numbers-on-board](https://github.com/DEVESH307/LeetCode/tree/master/2549-count-distinct-numbers-on-board) |
 | [2965-find-missing-and-repeated-values](https://github.com/DEVESH307/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/DEVESH307/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## String
 |  |
 | ------- |
@@ -241,6 +242,7 @@
 | [0910-smallest-range-ii](https://github.com/DEVESH307/LeetCode/tree/master/0910-smallest-range-ii) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/DEVESH307/LeetCode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [2429-minimize-xor](https://github.com/DEVESH307/LeetCode/tree/master/2429-minimize-xor) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/DEVESH307/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Breadth-First Search
 |  |
 | ------- |
