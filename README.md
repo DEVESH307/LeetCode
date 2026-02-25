@@ -331,4 +331,12 @@
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/DEVESH307/LeetCode/tree/master/0089-gray-code) |
+## Linked List
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/DEVESH307/LeetCode/tree/master/0707-design-linked-list) |
+## Design
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/DEVESH307/LeetCode/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
