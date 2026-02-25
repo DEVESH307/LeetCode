@@ -64,6 +64,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/DEVESH307/LeetCode/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/DEVESH307/LeetCode/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/DEVESH307/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/DEVESH307/LeetCode/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/DEVESH307/LeetCode/tree/master/0190-reverse-bits) |
@@ -134,6 +135,7 @@
 | [0048-rotate-image](https://github.com/DEVESH307/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/DEVESH307/LeetCode/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/DEVESH307/LeetCode/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/DEVESH307/LeetCode/tree/master/0089-gray-code) |
 | [0172-factorial-trailing-zeroes](https://github.com/DEVESH307/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/DEVESH307/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/DEVESH307/LeetCode/tree/master/0231-power-of-two) |
@@ -325,4 +327,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/DEVESH307/LeetCode/tree/master/0509-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/DEVESH307/LeetCode/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
