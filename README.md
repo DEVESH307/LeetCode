@@ -73,6 +73,7 @@
 | [0268-missing-number](https://github.com/DEVESH307/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/DEVESH307/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0461-hamming-distance](https://github.com/DEVESH307/LeetCode/tree/master/0461-hamming-distance) |
+| [0779-k-th-symbol-in-grammar](https://github.com/DEVESH307/LeetCode/tree/master/0779-k-th-symbol-in-grammar) |
 | [1486-xor-operation-in-an-array](https://github.com/DEVESH307/LeetCode/tree/master/1486-xor-operation-in-an-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/DEVESH307/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/DEVESH307/LeetCode/tree/master/2425-bitwise-xor-of-all-pairings) |
@@ -142,6 +143,7 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/DEVESH307/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0509-fibonacci-number](https://github.com/DEVESH307/LeetCode/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/DEVESH307/LeetCode/tree/master/0523-continuous-subarray-sum) |
+| [0779-k-th-symbol-in-grammar](https://github.com/DEVESH307/LeetCode/tree/master/0779-k-th-symbol-in-grammar) |
 | [0836-rectangle-overlap](https://github.com/DEVESH307/LeetCode/tree/master/0836-rectangle-overlap) |
 | [0878-nth-magical-number](https://github.com/DEVESH307/LeetCode/tree/master/0878-nth-magical-number) |
 | [0910-smallest-range-ii](https://github.com/DEVESH307/LeetCode/tree/master/0910-smallest-range-ii) |
@@ -318,6 +320,7 @@
 | [0050-powx-n](https://github.com/DEVESH307/LeetCode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/DEVESH307/LeetCode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/DEVESH307/LeetCode/tree/master/0509-fibonacci-number) |
+| [0779-k-th-symbol-in-grammar](https://github.com/DEVESH307/LeetCode/tree/master/0779-k-th-symbol-in-grammar) |
 ## Memoization
 |  |
 | ------- |
