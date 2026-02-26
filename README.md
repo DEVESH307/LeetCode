@@ -69,6 +69,7 @@
 | [0137-single-number-ii](https://github.com/DEVESH307/LeetCode/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/DEVESH307/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/DEVESH307/LeetCode/tree/master/0191-number-of-1-bits) |
+| [0222-count-complete-tree-nodes](https://github.com/DEVESH307/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/DEVESH307/LeetCode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/DEVESH307/LeetCode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/DEVESH307/LeetCode/tree/master/0268-missing-number) |
@@ -284,6 +285,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/DEVESH307/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/DEVESH307/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/DEVESH307/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/DEVESH307/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -361,6 +363,7 @@
 | [0100-same-tree](https://github.com/DEVESH307/LeetCode/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/DEVESH307/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/DEVESH307/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/DEVESH307/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0341-flatten-nested-list-iterator](https://github.com/DEVESH307/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/DEVESH307/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
@@ -383,5 +386,6 @@
 | [0100-same-tree](https://github.com/DEVESH307/LeetCode/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/DEVESH307/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/DEVESH307/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/DEVESH307/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/DEVESH307/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 <!---LeetCode Topics End-->
