@@ -339,11 +339,13 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/DEVESH307/LeetCode/tree/master/0155-min-stack) |
 | [0341-flatten-nested-list-iterator](https://github.com/DEVESH307/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
 | [0707-design-linked-list](https://github.com/DEVESH307/LeetCode/tree/master/0707-design-linked-list) |
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/DEVESH307/LeetCode/tree/master/0155-min-stack) |
 | [0341-flatten-nested-list-iterator](https://github.com/DEVESH307/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
 ## Tree
 |  |
