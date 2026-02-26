@@ -367,6 +367,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/DEVESH307/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/DEVESH307/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0341-flatten-nested-list-iterator](https://github.com/DEVESH307/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
+| [0938-range-sum-of-bst](https://github.com/DEVESH307/LeetCode/tree/master/0938-range-sum-of-bst) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/DEVESH307/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -377,6 +378,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/DEVESH307/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/DEVESH307/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0341-flatten-nested-list-iterator](https://github.com/DEVESH307/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
+| [0938-range-sum-of-bst](https://github.com/DEVESH307/LeetCode/tree/master/0938-range-sum-of-bst) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/DEVESH307/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Iterator
 |  |
@@ -391,5 +393,10 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/DEVESH307/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/DEVESH307/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/DEVESH307/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0938-range-sum-of-bst](https://github.com/DEVESH307/LeetCode/tree/master/0938-range-sum-of-bst) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/DEVESH307/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0938-range-sum-of-bst](https://github.com/DEVESH307/LeetCode/tree/master/0938-range-sum-of-bst) |
 <!---LeetCode Topics End-->
