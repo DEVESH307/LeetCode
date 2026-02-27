@@ -4,6 +4,29 @@
 #         self.val = val
 #         self.left = left
 #         self.right = right
+# class Solution:
+#     def binaryTreePaths(self, root: Optional[TreeNode]) -> List[str]:
+#         result = []
+#         def dfs(root, path):
+#             if not root:
+#                 return
+
+#             if path:
+#                 path = path + "->" + str(root.val)
+#             else:
+#                 path = str(root.val)
+            
+#             if not root.left and not root.right:
+#                 result.append(path)
+#                 return
+
+#             dfs(root.left, path)
+#             dfs(root.right, path)
+
+#         dfs(root, "")
+#         return result
+
+
 class Solution:
     def binaryTreePaths(self, root: Optional[TreeNode]) -> List[str]:
         result = []
@@ -11,17 +34,15 @@ class Solution:
             if not root:
                 return
 
-            if path:
-                path = path + "->" + str(root.val)
-            else:
-                path = str(root.val)
+            path.append(str(root.val))
             
             if not root.left and not root.right:
-                result.append(path)
-                return
+                result.append("->".join(path))
 
             dfs(root.left, path)
             dfs(root.right, path)
 
-        dfs(root, "")
+            path.pop()
+
+        dfs(root, [])
         return result
