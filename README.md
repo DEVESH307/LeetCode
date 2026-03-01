@@ -15,6 +15,7 @@
 | [0059-spiral-matrix-ii](https://github.com/DEVESH307/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/DEVESH307/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/DEVESH307/LeetCode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/DEVESH307/LeetCode/tree/master/0078-subsets) |
 | [0128-longest-consecutive-sequence](https://github.com/DEVESH307/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/DEVESH307/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/DEVESH307/LeetCode/tree/master/0137-single-number-ii) |
@@ -66,6 +67,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/DEVESH307/LeetCode/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/DEVESH307/LeetCode/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/DEVESH307/LeetCode/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/DEVESH307/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/DEVESH307/LeetCode/tree/master/0137-single-number-ii) |
@@ -344,6 +346,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/DEVESH307/LeetCode/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/DEVESH307/LeetCode/tree/master/0089-gray-code) |
 | [0257-binary-tree-paths](https://github.com/DEVESH307/LeetCode/tree/master/0257-binary-tree-paths) |
 ## Linked List
