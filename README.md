@@ -36,6 +36,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/DEVESH307/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/DEVESH307/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/DEVESH307/LeetCode/tree/master/0724-find-pivot-index) |
+| [0795-number-of-subarrays-with-bounded-maximum](https://github.com/DEVESH307/LeetCode/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0821-shortest-distance-to-a-character](https://github.com/DEVESH307/LeetCode/tree/master/0821-shortest-distance-to-a-character) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/DEVESH307/LeetCode/tree/master/0898-bitwise-ors-of-subarrays) |
 | [0904-fruit-into-baskets](https://github.com/DEVESH307/LeetCode/tree/master/0904-fruit-into-baskets) |
@@ -96,6 +97,7 @@
 | [0344-reverse-string](https://github.com/DEVESH307/LeetCode/tree/master/0344-reverse-string) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/DEVESH307/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0680-valid-palindrome-ii](https://github.com/DEVESH307/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [0795-number-of-subarrays-with-bounded-maximum](https://github.com/DEVESH307/LeetCode/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0821-shortest-distance-to-a-character](https://github.com/DEVESH307/LeetCode/tree/master/0821-shortest-distance-to-a-character) |
 ## Hash Table
 |  |
