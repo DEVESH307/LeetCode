@@ -49,6 +49,7 @@
 | [1200-minimum-absolute-difference](https://github.com/DEVESH307/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/DEVESH307/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/DEVESH307/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/DEVESH307/LeetCode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/DEVESH307/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1512-number-of-good-pairs](https://github.com/DEVESH307/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1572-matrix-diagonal-sum](https://github.com/DEVESH307/LeetCode/tree/master/1572-matrix-diagonal-sum) |
@@ -101,6 +102,7 @@
 | [0680-valid-palindrome-ii](https://github.com/DEVESH307/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/DEVESH307/LeetCode/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0821-shortest-distance-to-a-character](https://github.com/DEVESH307/LeetCode/tree/master/0821-shortest-distance-to-a-character) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/DEVESH307/LeetCode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Hash Table
 |  |
 | ------- |
@@ -201,6 +203,7 @@
 | [0532-k-diff-pairs-in-an-array](https://github.com/DEVESH307/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0910-smallest-range-ii](https://github.com/DEVESH307/LeetCode/tree/master/0910-smallest-range-ii) |
 | [1200-minimum-absolute-difference](https://github.com/DEVESH307/LeetCode/tree/master/1200-minimum-absolute-difference) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/DEVESH307/LeetCode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/DEVESH307/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/DEVESH307/LeetCode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/DEVESH307/LeetCode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
@@ -301,6 +304,7 @@
 | [0532-k-diff-pairs-in-an-array](https://github.com/DEVESH307/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0878-nth-magical-number](https://github.com/DEVESH307/LeetCode/tree/master/0878-nth-magical-number) |
 | [1004-max-consecutive-ones-iii](https://github.com/DEVESH307/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/DEVESH307/LeetCode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/DEVESH307/LeetCode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 ## Geometry
 |  |
