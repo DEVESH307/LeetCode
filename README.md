@@ -9,6 +9,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DEVESH307/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/DEVESH307/LeetCode/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/DEVESH307/LeetCode/tree/master/0036-valid-sudoku) |
+| [0042-trapping-rain-water](https://github.com/DEVESH307/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/DEVESH307/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/DEVESH307/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/DEVESH307/LeetCode/tree/master/0054-spiral-matrix) |
@@ -93,6 +94,7 @@
 | [0005-longest-palindromic-substring](https://github.com/DEVESH307/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DEVESH307/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/DEVESH307/LeetCode/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/DEVESH307/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/DEVESH307/LeetCode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/DEVESH307/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/DEVESH307/LeetCode/tree/master/0151-reverse-words-in-a-string) |
@@ -229,6 +231,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/DEVESH307/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/DEVESH307/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/DEVESH307/LeetCode/tree/master/0053-maximum-subarray) |
 | [0509-fibonacci-number](https://github.com/DEVESH307/LeetCode/tree/master/0509-fibonacci-number) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/DEVESH307/LeetCode/tree/master/0898-bitwise-ors-of-subarrays) |
@@ -369,6 +372,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/DEVESH307/LeetCode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/DEVESH307/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/DEVESH307/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/DEVESH307/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/DEVESH307/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -422,4 +426,8 @@
 |  |
 | ------- |
 | [0938-range-sum-of-bst](https://github.com/DEVESH307/LeetCode/tree/master/0938-range-sum-of-bst) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/DEVESH307/LeetCode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
