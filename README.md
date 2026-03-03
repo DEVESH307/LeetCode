@@ -16,6 +16,7 @@
 | [0054-spiral-matrix](https://github.com/DEVESH307/LeetCode/tree/master/0054-spiral-matrix) |
 | [0057-insert-interval](https://github.com/DEVESH307/LeetCode/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/DEVESH307/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0066-plus-one](https://github.com/DEVESH307/LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/DEVESH307/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/DEVESH307/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/DEVESH307/LeetCode/tree/master/0078-subsets) |
@@ -150,6 +151,7 @@
 | [0013-roman-to-integer](https://github.com/DEVESH307/LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/DEVESH307/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/DEVESH307/LeetCode/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/DEVESH307/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/DEVESH307/LeetCode/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/DEVESH307/LeetCode/tree/master/0089-gray-code) |
 | [0172-factorial-trailing-zeroes](https://github.com/DEVESH307/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
