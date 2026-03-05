@@ -32,6 +32,7 @@
 | [0260-single-number-iii](https://github.com/DEVESH307/LeetCode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/DEVESH307/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/DEVESH307/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0303-range-sum-query-immutable](https://github.com/DEVESH307/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0435-non-overlapping-intervals](https://github.com/DEVESH307/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/DEVESH307/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/DEVESH307/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -301,6 +302,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/DEVESH307/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/DEVESH307/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/DEVESH307/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/DEVESH307/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/DEVESH307/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -375,6 +377,7 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/DEVESH307/LeetCode/tree/master/0155-min-stack) |
+| [0303-range-sum-query-immutable](https://github.com/DEVESH307/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0341-flatten-nested-list-iterator](https://github.com/DEVESH307/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
 | [0707-design-linked-list](https://github.com/DEVESH307/LeetCode/tree/master/0707-design-linked-list) |
 ## Stack
