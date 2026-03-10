@@ -64,6 +64,7 @@
 | [1512-number-of-good-pairs](https://github.com/DEVESH307/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1572-matrix-diagonal-sum](https://github.com/DEVESH307/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/DEVESH307/LeetCode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/DEVESH307/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1664-ways-to-make-a-fair-array](https://github.com/DEVESH307/LeetCode/tree/master/1664-ways-to-make-a-fair-array) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/DEVESH307/LeetCode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/DEVESH307/LeetCode/tree/master/2395-find-subarrays-with-equal-sum) |
@@ -141,6 +142,7 @@
 | [1394-find-lucky-integer-in-an-array](https://github.com/DEVESH307/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/DEVESH307/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/DEVESH307/LeetCode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/DEVESH307/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1737-change-minimum-characters-to-satisfy-one-of-three-conditions](https://github.com/DEVESH307/LeetCode/tree/master/1737-change-minimum-characters-to-satisfy-one-of-three-conditions) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/DEVESH307/LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2351-first-letter-to-appear-twice](https://github.com/DEVESH307/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
@@ -234,6 +236,7 @@
 | [0992-subarrays-with-k-different-integers](https://github.com/DEVESH307/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/DEVESH307/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/DEVESH307/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/DEVESH307/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/DEVESH307/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Divide and Conquer
 |  |
@@ -321,6 +324,7 @@
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/DEVESH307/LeetCode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/DEVESH307/LeetCode/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/DEVESH307/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/DEVESH307/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1664-ways-to-make-a-fair-array](https://github.com/DEVESH307/LeetCode/tree/master/1664-ways-to-make-a-fair-array) |
 | [1737-change-minimum-characters-to-satisfy-one-of-three-conditions](https://github.com/DEVESH307/LeetCode/tree/master/1737-change-minimum-characters-to-satisfy-one-of-three-conditions) |
 ## Binary Search
@@ -335,6 +339,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/DEVESH307/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/DEVESH307/LeetCode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/DEVESH307/LeetCode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/DEVESH307/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Geometry
 |  |
 | ------- |
