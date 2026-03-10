@@ -1,6 +1,7 @@
 class NumArray:
 
     def __init__(self, nums: List[int]):
+        self.nums = nums
         n = len(nums)
         self.ps = [0] * (n+1)
         
