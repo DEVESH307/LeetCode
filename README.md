@@ -198,6 +198,7 @@
 | [0680-valid-palindrome-ii](https://github.com/DEVESH307/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0821-shortest-distance-to-a-character](https://github.com/DEVESH307/LeetCode/tree/master/0821-shortest-distance-to-a-character) |
 | [0953-verifying-an-alien-dictionary](https://github.com/DEVESH307/LeetCode/tree/master/0953-verifying-an-alien-dictionary) |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/DEVESH307/LeetCode/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/DEVESH307/LeetCode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1737-change-minimum-characters-to-satisfy-one-of-three-conditions](https://github.com/DEVESH307/LeetCode/tree/master/1737-change-minimum-characters-to-satisfy-one-of-three-conditions) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/DEVESH307/LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -313,6 +314,7 @@
 | [0724-find-pivot-index](https://github.com/DEVESH307/LeetCode/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/DEVESH307/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/DEVESH307/LeetCode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/DEVESH307/LeetCode/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/DEVESH307/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1664-ways-to-make-a-fair-array](https://github.com/DEVESH307/LeetCode/tree/master/1664-ways-to-make-a-fair-array) |
 | [1737-change-minimum-characters-to-satisfy-one-of-three-conditions](https://github.com/DEVESH307/LeetCode/tree/master/1737-change-minimum-characters-to-satisfy-one-of-three-conditions) |
