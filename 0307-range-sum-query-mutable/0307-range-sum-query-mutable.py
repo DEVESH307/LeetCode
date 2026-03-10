@@ -1,3 +1,24 @@
+# class NumArray:
+
+#     def __init__(self, nums):
+#         self.nums = nums
+#         n = len(nums)
+#         self.ps = [0]*(n+1)
+
+#         for i in range(n):
+#             self.ps[i+1] = self.ps[i] + nums[i]
+
+#     def update(self, index, val):
+#         diff = val - self.nums[index]
+#         self.nums[index] = val
+
+#         for i in range(index+1, len(self.ps)):
+#             self.ps[i] += diff
+
+#     def sumRange(self, left, right):
+#         return self.ps[right+1] - self.ps[left]
+
+
 class NumArray:
 
     def __init__(self, nums):
@@ -27,7 +48,7 @@ class NumArray:
 
     def sumRange(self, left, right):
         return self._sum(right+1) - self._sum(left)
-
+        
 
 # Your NumArray object will be instantiated and called as such:
 # obj = NumArray(nums)
