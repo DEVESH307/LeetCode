@@ -33,6 +33,7 @@
 | [0268-missing-number](https://github.com/DEVESH307/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/DEVESH307/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/DEVESH307/LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [0307-range-sum-query-mutable](https://github.com/DEVESH307/LeetCode/tree/master/0307-range-sum-query-mutable) |
 | [0435-non-overlapping-intervals](https://github.com/DEVESH307/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/DEVESH307/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/DEVESH307/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -237,6 +238,7 @@
 | [0169-majority-element](https://github.com/DEVESH307/LeetCode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/DEVESH307/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/DEVESH307/LeetCode/tree/master/0191-number-of-1-bits) |
+| [0307-range-sum-query-mutable](https://github.com/DEVESH307/LeetCode/tree/master/0307-range-sum-query-mutable) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -381,6 +383,7 @@
 | ------- |
 | [0155-min-stack](https://github.com/DEVESH307/LeetCode/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/DEVESH307/LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [0307-range-sum-query-mutable](https://github.com/DEVESH307/LeetCode/tree/master/0307-range-sum-query-mutable) |
 | [0341-flatten-nested-list-iterator](https://github.com/DEVESH307/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
 | [0707-design-linked-list](https://github.com/DEVESH307/LeetCode/tree/master/0707-design-linked-list) |
 ## Stack
@@ -445,4 +448,12 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/DEVESH307/LeetCode/tree/master/0042-trapping-rain-water) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/DEVESH307/LeetCode/tree/master/0307-range-sum-query-mutable) |
+## Segment Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/DEVESH307/LeetCode/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
