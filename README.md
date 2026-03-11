@@ -54,6 +54,7 @@
 | [0992-subarrays-with-k-different-integers](https://github.com/DEVESH307/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/DEVESH307/LeetCode/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/DEVESH307/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/DEVESH307/LeetCode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1200-minimum-absolute-difference](https://github.com/DEVESH307/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/DEVESH307/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/DEVESH307/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -138,6 +139,7 @@
 | [0904-fruit-into-baskets](https://github.com/DEVESH307/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0953-verifying-an-alien-dictionary](https://github.com/DEVESH307/LeetCode/tree/master/0953-verifying-an-alien-dictionary) |
 | [0992-subarrays-with-k-different-integers](https://github.com/DEVESH307/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/DEVESH307/LeetCode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1207-unique-number-of-occurrences](https://github.com/DEVESH307/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/DEVESH307/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/DEVESH307/LeetCode/tree/master/1512-number-of-good-pairs) |
@@ -307,6 +309,7 @@
 | [0073-set-matrix-zeroes](https://github.com/DEVESH307/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0498-diagonal-traverse](https://github.com/DEVESH307/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0994-rotting-oranges](https://github.com/DEVESH307/LeetCode/tree/master/0994-rotting-oranges) |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/DEVESH307/LeetCode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1572-matrix-diagonal-sum](https://github.com/DEVESH307/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [2643-row-with-maximum-ones](https://github.com/DEVESH307/LeetCode/tree/master/2643-row-with-maximum-ones) |
 | [2965-find-missing-and-repeated-values](https://github.com/DEVESH307/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
@@ -321,6 +324,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/DEVESH307/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/DEVESH307/LeetCode/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/DEVESH307/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/DEVESH307/LeetCode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/DEVESH307/LeetCode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/DEVESH307/LeetCode/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/DEVESH307/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
