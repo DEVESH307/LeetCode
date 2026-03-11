@@ -30,6 +30,7 @@
 | [0219-contains-duplicate-ii](https://github.com/DEVESH307/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/DEVESH307/LeetCode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/DEVESH307/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0240-search-a-2d-matrix-ii](https://github.com/DEVESH307/LeetCode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0260-single-number-iii](https://github.com/DEVESH307/LeetCode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/DEVESH307/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/DEVESH307/LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -249,6 +250,7 @@
 | [0169-majority-element](https://github.com/DEVESH307/LeetCode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/DEVESH307/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/DEVESH307/LeetCode/tree/master/0191-number-of-1-bits) |
+| [0240-search-a-2d-matrix-ii](https://github.com/DEVESH307/LeetCode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0307-range-sum-query-mutable](https://github.com/DEVESH307/LeetCode/tree/master/0307-range-sum-query-mutable) |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -309,6 +311,7 @@
 | [0054-spiral-matrix](https://github.com/DEVESH307/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/DEVESH307/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/DEVESH307/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0240-search-a-2d-matrix-ii](https://github.com/DEVESH307/LeetCode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0304-range-sum-query-2d-immutable](https://github.com/DEVESH307/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/DEVESH307/LeetCode/tree/main/0363-max-sum-of-rectangle-no-larger-than-k/) | Hard |
 | [0498-diagonal-traverse](https://github.com/DEVESH307/LeetCode/tree/master/0498-diagonal-traverse) |
@@ -342,6 +345,7 @@
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/DEVESH307/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/DEVESH307/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0240-search-a-2d-matrix-ii](https://github.com/DEVESH307/LeetCode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0268-missing-number](https://github.com/DEVESH307/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/DEVESH307/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/DEVESH307/LeetCode/tree/main/0363-max-sum-of-rectangle-no-larger-than-k/) | Hard |
