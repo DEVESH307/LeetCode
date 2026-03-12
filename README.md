@@ -73,6 +73,7 @@
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/DEVESH307/LeetCode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/DEVESH307/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1664-ways-to-make-a-fair-array](https://github.com/DEVESH307/LeetCode/tree/master/1664-ways-to-make-a-fair-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/DEVESH307/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/DEVESH307/LeetCode/tree/main/2016-maximum-difference-between-increasing-elements/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/DEVESH307/LeetCode/tree/main/Python3/Medium/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/DEVESH307/LeetCode/tree/master/2183-count-array-pairs-divisible-by-k) |
@@ -191,6 +192,7 @@
 | [1390-four-divisors](https://github.com/DEVESH307/LeetCode/tree/main/Python3/Medium/1390-four-divisors/) | Medium |
 | [1486-xor-operation-in-an-array](https://github.com/DEVESH307/LeetCode/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/DEVESH307/LeetCode/tree/master/1512-number-of-good-pairs) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/DEVESH307/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2063-vowels-of-all-substrings](https://github.com/DEVESH307/LeetCode/tree/master/2063-vowels-of-all-substrings) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/DEVESH307/LeetCode/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/DEVESH307/LeetCode/tree/master/2348-number-of-zero-filled-subarrays) |
@@ -378,6 +380,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/DEVESH307/LeetCode/tree/master/0258-add-digits) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/DEVESH307/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/DEVESH307/LeetCode/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2413-smallest-even-multiple](https://github.com/DEVESH307/LeetCode/tree/master/2413-smallest-even-multiple) |
 ## Queue
