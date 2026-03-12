@@ -4,4 +4,9 @@ class Solution:
         mn = min(nums)
         mx = max(nums)
         
-        return gcd(mx, mn)
+        while mn != 0:
+            temp = mx
+            mx = mn
+            mn = temp % mn
+        return mx
+        # return gcd(mx, mn)
