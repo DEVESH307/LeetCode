@@ -88,6 +88,7 @@
 | [2965-find-missing-and-repeated-values](https://github.com/DEVESH307/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3312-sorted-gcd-pair-queries](https://github.com/DEVESH307/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/DEVESH307/LeetCode/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3770-largest-prime-from-consecutive-prime-sum](https://github.com/DEVESH307/LeetCode/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -203,6 +204,7 @@
 | [2965-find-missing-and-repeated-values](https://github.com/DEVESH307/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3312-sorted-gcd-pair-queries](https://github.com/DEVESH307/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/DEVESH307/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3770-largest-prime-from-consecutive-prime-sum](https://github.com/DEVESH307/LeetCode/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 ## String
 |  |
 | ------- |
@@ -390,6 +392,7 @@
 | [2183-count-array-pairs-divisible-by-k](https://github.com/DEVESH307/LeetCode/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2413-smallest-even-multiple](https://github.com/DEVESH307/LeetCode/tree/master/2413-smallest-even-multiple) |
 | [3312-sorted-gcd-pair-queries](https://github.com/DEVESH307/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3770-largest-prime-from-consecutive-prime-sum](https://github.com/DEVESH307/LeetCode/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 ## Queue
 |  |
 | ------- |
