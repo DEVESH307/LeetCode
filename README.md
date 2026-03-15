@@ -86,6 +86,7 @@
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/DEVESH307/LeetCode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/DEVESH307/LeetCode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/DEVESH307/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
+| [3312-sorted-gcd-pair-queries](https://github.com/DEVESH307/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/DEVESH307/LeetCode/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Bit Manipulation
 |  |
@@ -166,6 +167,7 @@
 | [2549-count-distinct-numbers-on-board](https://github.com/DEVESH307/LeetCode/tree/master/2549-count-distinct-numbers-on-board) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/DEVESH307/LeetCode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/DEVESH307/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
+| [3312-sorted-gcd-pair-queries](https://github.com/DEVESH307/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Math
 |  |
 | ------- |
@@ -199,6 +201,7 @@
 | [2413-smallest-even-multiple](https://github.com/DEVESH307/LeetCode/tree/master/2413-smallest-even-multiple) |
 | [2549-count-distinct-numbers-on-board](https://github.com/DEVESH307/LeetCode/tree/master/2549-count-distinct-numbers-on-board) |
 | [2965-find-missing-and-repeated-values](https://github.com/DEVESH307/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
+| [3312-sorted-gcd-pair-queries](https://github.com/DEVESH307/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/DEVESH307/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## String
 |  |
@@ -288,6 +291,7 @@
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/DEVESH307/LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/DEVESH307/LeetCode/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2351-first-letter-to-appear-twice](https://github.com/DEVESH307/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
+| [3312-sorted-gcd-pair-queries](https://github.com/DEVESH307/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Simulation
 |  |
 | ------- |
@@ -356,6 +360,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/DEVESH307/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1664-ways-to-make-a-fair-array](https://github.com/DEVESH307/LeetCode/tree/master/1664-ways-to-make-a-fair-array) |
 | [1737-change-minimum-characters-to-satisfy-one-of-three-conditions](https://github.com/DEVESH307/LeetCode/tree/master/1737-change-minimum-characters-to-satisfy-one-of-three-conditions) |
+| [3312-sorted-gcd-pair-queries](https://github.com/DEVESH307/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Binary Search
 |  |
 | ------- |
@@ -372,6 +377,7 @@
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/DEVESH307/LeetCode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/DEVESH307/LeetCode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/DEVESH307/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [3312-sorted-gcd-pair-queries](https://github.com/DEVESH307/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Geometry
 |  |
 | ------- |
@@ -383,6 +389,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DEVESH307/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/DEVESH307/LeetCode/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2413-smallest-even-multiple](https://github.com/DEVESH307/LeetCode/tree/master/2413-smallest-even-multiple) |
+| [3312-sorted-gcd-pair-queries](https://github.com/DEVESH307/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Queue
 |  |
 | ------- |
@@ -396,6 +403,7 @@
 |  |
 | ------- |
 | [2063-vowels-of-all-substrings](https://github.com/DEVESH307/LeetCode/tree/master/2063-vowels-of-all-substrings) |
+| [3312-sorted-gcd-pair-queries](https://github.com/DEVESH307/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Trie
 |  |
 | ------- |
