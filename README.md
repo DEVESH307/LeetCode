@@ -85,6 +85,7 @@
 | [2549-count-distinct-numbers-on-board](https://github.com/DEVESH307/LeetCode/tree/master/2549-count-distinct-numbers-on-board) |
 | [2643-row-with-maximum-ones](https://github.com/DEVESH307/LeetCode/tree/master/2643-row-with-maximum-ones) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/DEVESH307/LeetCode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
+| [2761-prime-pairs-with-target-sum](https://github.com/DEVESH307/LeetCode/tree/master/2761-prime-pairs-with-target-sum) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/DEVESH307/LeetCode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/DEVESH307/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3312-sorted-gcd-pair-queries](https://github.com/DEVESH307/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -203,6 +204,7 @@
 | [2348-number-of-zero-filled-subarrays](https://github.com/DEVESH307/LeetCode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2413-smallest-even-multiple](https://github.com/DEVESH307/LeetCode/tree/master/2413-smallest-even-multiple) |
 | [2549-count-distinct-numbers-on-board](https://github.com/DEVESH307/LeetCode/tree/master/2549-count-distinct-numbers-on-board) |
+| [2761-prime-pairs-with-target-sum](https://github.com/DEVESH307/LeetCode/tree/master/2761-prime-pairs-with-target-sum) |
 | [2965-find-missing-and-repeated-values](https://github.com/DEVESH307/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3312-sorted-gcd-pair-queries](https://github.com/DEVESH307/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/DEVESH307/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -394,6 +396,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DEVESH307/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/DEVESH307/LeetCode/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2413-smallest-even-multiple](https://github.com/DEVESH307/LeetCode/tree/master/2413-smallest-even-multiple) |
+| [2761-prime-pairs-with-target-sum](https://github.com/DEVESH307/LeetCode/tree/master/2761-prime-pairs-with-target-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/DEVESH307/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/DEVESH307/LeetCode/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 ## Queue
@@ -528,4 +531,5 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/DEVESH307/LeetCode/tree/master/0204-count-primes) |
+| [2761-prime-pairs-with-target-sum](https://github.com/DEVESH307/LeetCode/tree/master/2761-prime-pairs-with-target-sum) |
 <!---LeetCode Topics End-->
