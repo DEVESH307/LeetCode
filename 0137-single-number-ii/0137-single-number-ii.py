@@ -8,11 +8,11 @@ class Solution:
                 if j & (1 << i):
                     count_ith_bit += 1
 
-            if count_ith_bit % 3 != 0:
+            if count_ith_bit%3 != 0:
                 ans |= (1 << i)
-
+        
+        # for negative nums
         if ans >= (1 << 31):
             ans -= (1 << 32)
 
         return ans
-        
