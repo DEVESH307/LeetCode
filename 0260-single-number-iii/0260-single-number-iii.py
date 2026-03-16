@@ -2,14 +2,14 @@
 #     def singleNumber(self, nums: List[int]) -> List[int]:
 #         ans1 = 0
 #         ans2 = 0
-#         xor_two_nums = 0
+#         xor_all = 0
 
 #         for num in nums:
-#             xor_two_nums ^= num
+#             xor_all ^= num
 
 #         pos = 0
 
-#         while (xor_two_nums & (1<<pos)) == 0:
+#         while (xor_all & (1<<pos)) == 0:
 #             pos += 1
 
 #         mask = 1<<pos
@@ -28,12 +28,13 @@ class Solution:
     def singleNumber(self, nums: List[int]) -> List[int]:
         ans1 = 0
         ans2 = 0
-        xor_two_nums = 0
+        xor_all = 0
 
         for num in nums:
-            xor_two_nums ^= num
+            xor_all ^= num
 
-        mask = (xor_two_nums & (xor_two_nums - 1)) ^ xor_two_nums
+        # mask = (xor_all & (xor_all - 1)) ^ xor_all
+        mask = xor_all & -xor_all
 
         for num in nums:
             if num & mask == 0:
