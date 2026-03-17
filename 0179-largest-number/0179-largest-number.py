@@ -8,7 +8,6 @@ class Solution:
             else:
                 return 0
 
-        n = len(nums)
         # convert numbers to strings
         nums = list(map(str, nums))
         nums.sort(key=cmp_to_key(compare))
