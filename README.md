@@ -61,6 +61,7 @@
 | [0945-minimum-increment-to-make-array-unique](https://github.com/DEVESH307/LeetCode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0953-verifying-an-alien-dictionary](https://github.com/DEVESH307/LeetCode/tree/master/0953-verifying-an-alien-dictionary) |
 | [0962-maximum-width-ramp](https://github.com/DEVESH307/LeetCode/tree/main/0962-maximum-width-ramp/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/DEVESH307/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [0992-subarrays-with-k-different-integers](https://github.com/DEVESH307/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/DEVESH307/LeetCode/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/DEVESH307/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
@@ -208,6 +209,7 @@
 | [0836-rectangle-overlap](https://github.com/DEVESH307/LeetCode/tree/master/0836-rectangle-overlap) |
 | [0878-nth-magical-number](https://github.com/DEVESH307/LeetCode/tree/master/0878-nth-magical-number) |
 | [0910-smallest-range-ii](https://github.com/DEVESH307/LeetCode/tree/master/0910-smallest-range-ii) |
+| [0973-k-closest-points-to-origin](https://github.com/DEVESH307/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1390-four-divisors](https://github.com/DEVESH307/LeetCode/tree/main/Python3/Medium/1390-four-divisors/) | Medium |
 | [1486-xor-operation-in-an-array](https://github.com/DEVESH307/LeetCode/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/DEVESH307/LeetCode/tree/master/1512-number-of-good-pairs) |
@@ -265,6 +267,7 @@
 | [0910-smallest-range-ii](https://github.com/DEVESH307/LeetCode/tree/master/0910-smallest-range-ii) |
 | [0912-sort-an-array](https://github.com/DEVESH307/LeetCode/tree/master/0912-sort-an-array) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/DEVESH307/LeetCode/tree/master/0945-minimum-increment-to-make-array-unique) |
+| [0973-k-closest-points-to-origin](https://github.com/DEVESH307/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1200-minimum-absolute-difference](https://github.com/DEVESH307/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/DEVESH307/LeetCode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/DEVESH307/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -294,6 +297,7 @@
 | [0307-range-sum-query-mutable](https://github.com/DEVESH307/LeetCode/tree/master/0307-range-sum-query-mutable) |
 | [0493-reverse-pairs](https://github.com/DEVESH307/LeetCode/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/DEVESH307/LeetCode/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/DEVESH307/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -412,6 +416,7 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/DEVESH307/LeetCode/tree/master/0836-rectangle-overlap) |
+| [0973-k-closest-points-to-origin](https://github.com/DEVESH307/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Number Theory
 |  |
 | ------- |
@@ -565,6 +570,7 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/DEVESH307/LeetCode/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/DEVESH307/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Merge Sort
 |  |
 | ------- |
@@ -582,4 +588,8 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/DEVESH307/LeetCode/tree/master/0912-sort-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/DEVESH307/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
