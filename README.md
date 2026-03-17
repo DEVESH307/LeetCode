@@ -56,6 +56,7 @@
 | [0898-bitwise-ors-of-subarrays](https://github.com/DEVESH307/LeetCode/tree/master/0898-bitwise-ors-of-subarrays) |
 | [0904-fruit-into-baskets](https://github.com/DEVESH307/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0910-smallest-range-ii](https://github.com/DEVESH307/LeetCode/tree/master/0910-smallest-range-ii) |
+| [0912-sort-an-array](https://github.com/DEVESH307/LeetCode/tree/master/0912-sort-an-array) |
 | [0953-verifying-an-alien-dictionary](https://github.com/DEVESH307/LeetCode/tree/master/0953-verifying-an-alien-dictionary) |
 | [0962-maximum-width-ramp](https://github.com/DEVESH307/LeetCode/tree/main/0962-maximum-width-ramp/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/DEVESH307/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
@@ -260,6 +261,7 @@
 | [0435-non-overlapping-intervals](https://github.com/DEVESH307/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/DEVESH307/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0910-smallest-range-ii](https://github.com/DEVESH307/LeetCode/tree/master/0910-smallest-range-ii) |
+| [0912-sort-an-array](https://github.com/DEVESH307/LeetCode/tree/master/0912-sort-an-array) |
 | [1200-minimum-absolute-difference](https://github.com/DEVESH307/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/DEVESH307/LeetCode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/DEVESH307/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -287,6 +289,7 @@
 | [0191-number-of-1-bits](https://github.com/DEVESH307/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/DEVESH307/LeetCode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0307-range-sum-query-mutable](https://github.com/DEVESH307/LeetCode/tree/master/0307-range-sum-query-mutable) |
+| [0912-sort-an-array](https://github.com/DEVESH307/LeetCode/tree/master/0912-sort-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -548,4 +551,24 @@
 | ------- |
 | [0204-count-primes](https://github.com/DEVESH307/LeetCode/tree/master/0204-count-primes) |
 | [2761-prime-pairs-with-target-sum](https://github.com/DEVESH307/LeetCode/tree/master/2761-prime-pairs-with-target-sum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/DEVESH307/LeetCode/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/DEVESH307/LeetCode/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/DEVESH307/LeetCode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/DEVESH307/LeetCode/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/DEVESH307/LeetCode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
