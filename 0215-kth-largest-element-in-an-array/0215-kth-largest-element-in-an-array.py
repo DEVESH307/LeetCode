@@ -56,7 +56,6 @@
 
 
 import random
-
 class Solution:
     def findKthLargest(self, nums, k):
         k -= 1  # 0-based index
