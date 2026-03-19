@@ -204,6 +204,7 @@
 | [0050-powx-n](https://github.com/DEVESH307/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/DEVESH307/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/DEVESH307/LeetCode/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/DEVESH307/LeetCode/tree/master/0069-sqrtx) |
 | [0089-gray-code](https://github.com/DEVESH307/LeetCode/tree/master/0089-gray-code) |
 | [0172-factorial-trailing-zeroes](https://github.com/DEVESH307/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/DEVESH307/LeetCode/tree/master/0189-rotate-array) |
@@ -414,6 +415,7 @@
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/DEVESH307/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/DEVESH307/LeetCode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/DEVESH307/LeetCode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/DEVESH307/LeetCode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0162-find-peak-element](https://github.com/DEVESH307/LeetCode/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/DEVESH307/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
