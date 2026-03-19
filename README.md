@@ -83,6 +83,7 @@
 | [1664-ways-to-make-a-fair-array](https://github.com/DEVESH307/LeetCode/tree/master/1664-ways-to-make-a-fair-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DEVESH307/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/DEVESH307/LeetCode/tree/main/2016-maximum-difference-between-increasing-elements/) | Easy |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/DEVESH307/LeetCode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/DEVESH307/LeetCode/tree/main/Python3/Medium/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/DEVESH307/LeetCode/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/DEVESH307/LeetCode/tree/master/2348-number-of-zero-filled-subarrays) |
@@ -177,6 +178,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/DEVESH307/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1737-change-minimum-characters-to-satisfy-one-of-three-conditions](https://github.com/DEVESH307/LeetCode/tree/master/1737-change-minimum-characters-to-satisfy-one-of-three-conditions) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/DEVESH307/LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/DEVESH307/LeetCode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/DEVESH307/LeetCode/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2351-first-letter-to-appear-twice](https://github.com/DEVESH307/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/DEVESH307/LeetCode/tree/master/2395-find-subarrays-with-equal-sum) |
@@ -278,6 +280,7 @@
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/DEVESH307/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/DEVESH307/LeetCode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/DEVESH307/LeetCode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/DEVESH307/LeetCode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Sliding Window
 |  |
 | ------- |
@@ -581,6 +584,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/DEVESH307/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/DEVESH307/LeetCode/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/DEVESH307/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/DEVESH307/LeetCode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Merge Sort
 |  |
 | ------- |
