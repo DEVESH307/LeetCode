@@ -8,6 +8,7 @@
 | [0014-longest-common-prefix](https://github.com/DEVESH307/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DEVESH307/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/DEVESH307/LeetCode/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/DEVESH307/LeetCode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/DEVESH307/LeetCode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/DEVESH307/LeetCode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/DEVESH307/LeetCode/tree/master/0042-trapping-rain-water) |
@@ -408,6 +409,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/DEVESH307/LeetCode/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/DEVESH307/LeetCode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/DEVESH307/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/DEVESH307/LeetCode/tree/master/0222-count-complete-tree-nodes) |
