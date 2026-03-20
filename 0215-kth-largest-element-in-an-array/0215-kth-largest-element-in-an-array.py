@@ -55,40 +55,64 @@
 #                 left = pivot_index + 1
 
 
-import random
+# import random
+# class Solution:
+#     def findKthLargest(self, nums, k):
+#         k -= 1  # 0-based index
+
+#         def partition(left, right):
+#             pivot = nums[random.randint(left, right)]
+
+#             p1 = left      # > pivot region
+#             i = left       # current
+#             p2 = right     # < pivot region
+
+#             while i <= p2:
+#                 if nums[i] > pivot:
+#                     nums[i], nums[p1] = nums[p1], nums[i]
+#                     p1 += 1
+#                     i += 1
+#                 elif nums[i] < pivot:
+#                     nums[i], nums[p2] = nums[p2], nums[i]
+#                     p2 -= 1
+#                 else:
+#                     i += 1
+
+#             return p1, p2  # equal range
+
+#         left = 0
+#         right = len(nums) - 1
+
+#         while True:
+#             start, end = partition(left, right)
+
+#             if k < start:
+#                 right = start - 1
+#             elif k > end:
+#                 left = end + 1
+#             else:
+#                 return nums[k]
+
+
 class Solution:
+    def check(self, nums, k, target):
+        count = 0
+        for i in range(len(nums)):
+            if nums[i] >= target:
+                count += 1
+        return count >= k
+
     def findKthLargest(self, nums, k):
-        k -= 1  # 0-based index
+        left, right = min(nums), max(nums)
+        ans = 0
 
-        def partition(left, right):
-            pivot = nums[random.randint(left, right)]
+        while left <= right:
+            mid = (left+right)//2
 
-            p1 = left      # > pivot region
-            i = left       # current
-            p2 = right     # < pivot region
-
-            while i <= p2:
-                if nums[i] > pivot:
-                    nums[i], nums[p1] = nums[p1], nums[i]
-                    p1 += 1
-                    i += 1
-                elif nums[i] < pivot:
-                    nums[i], nums[p2] = nums[p2], nums[i]
-                    p2 -= 1
-                else:
-                    i += 1
-
-            return p1, p2  # equal range
-
-        left = 0
-        right = len(nums) - 1
-
-        while True:
-            start, end = partition(left, right)
-
-            if k < start:
-                right = start - 1
-            elif k > end:
-                left = end + 1
+            if self.check(nums, k, mid):
+                ans = mid
+                left = mid + 1
             else:
-                return nums[k]
+                right = mid - 1
+
+        return ans
