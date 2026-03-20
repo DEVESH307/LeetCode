@@ -2,9 +2,10 @@
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/DEVESH307/LeetCode/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/DEVESH307/LeetCode/tree/main/Python3/Hard/0004-median-of-two-sorted-arrays/) | Hard |
 | [0014-longest-common-prefix](https://github.com/DEVESH307/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DEVESH307/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/DEVESH307/LeetCode/tree/master/0027-remove-element) |
@@ -111,8 +112,8 @@
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/DEVESH307/LeetCode/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/DEVESH307/LeetCode/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 ## Bit Manipulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0029-divide-two-integers](https://github.com/DEVESH307/LeetCode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/DEVESH307/LeetCode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/DEVESH307/LeetCode/tree/master/0078-subsets) |
@@ -135,8 +136,8 @@
 | [2425-bitwise-xor-of-all-pairings](https://github.com/DEVESH307/LeetCode/tree/master/2425-bitwise-xor-of-all-pairings) |
 | [2429-minimize-xor](https://github.com/DEVESH307/LeetCode/tree/master/2429-minimize-xor) |
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/DEVESH307/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DEVESH307/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/DEVESH307/LeetCode/tree/master/0027-remove-element) |
@@ -157,8 +158,8 @@
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/DEVESH307/LeetCode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/DEVESH307/LeetCode/tree/main/Python3/Medium/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/DEVESH307/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/DEVESH307/LeetCode/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/DEVESH307/LeetCode/tree/master/0036-valid-sudoku) |
@@ -198,8 +199,8 @@
 | [2965-find-missing-and-repeated-values](https://github.com/DEVESH307/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3312-sorted-gcd-pair-queries](https://github.com/DEVESH307/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0009-palindrome-number](https://github.com/DEVESH307/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/DEVESH307/LeetCode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/DEVESH307/LeetCode/tree/master/0029-divide-two-integers) |
@@ -241,8 +242,8 @@
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/DEVESH307/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/DEVESH307/LeetCode/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/DEVESH307/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/DEVESH307/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/DEVESH307/LeetCode/tree/master/0014-longest-common-prefix) |
@@ -268,8 +269,8 @@
 | [2129-capitalize-the-title](https://github.com/DEVESH307/LeetCode/tree/master/2129-capitalize-the-title) |
 | [2351-first-letter-to-appear-twice](https://github.com/DEVESH307/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0075-sort-colors](https://github.com/DEVESH307/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/DEVESH307/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/DEVESH307/LeetCode/tree/master/0169-majority-element) |
@@ -291,8 +292,8 @@
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/DEVESH307/LeetCode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/DEVESH307/LeetCode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Sliding Window
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/DEVESH307/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/DEVESH307/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/DEVESH307/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -304,8 +305,9 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/DEVESH307/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/DEVESH307/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Divide and Conquer
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/DEVESH307/LeetCode/tree/main/Python3/Hard/0004-median-of-two-sorted-arrays/) | Hard |
 | [0053-maximum-subarray](https://github.com/DEVESH307/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/DEVESH307/LeetCode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/DEVESH307/LeetCode/tree/master/0190-reverse-bits) |
@@ -317,8 +319,8 @@
 | [0912-sort-an-array](https://github.com/DEVESH307/LeetCode/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/DEVESH307/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Dynamic Programming
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/DEVESH307/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/DEVESH307/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/DEVESH307/LeetCode/tree/master/0053-maximum-subarray) |
@@ -328,8 +330,8 @@
 | [0898-bitwise-ors-of-subarrays](https://github.com/DEVESH307/LeetCode/tree/master/0898-bitwise-ors-of-subarrays) |
 | [2063-vowels-of-all-substrings](https://github.com/DEVESH307/LeetCode/tree/master/2063-vowels-of-all-substrings) |
 ## Counting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0169-majority-element](https://github.com/DEVESH307/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/DEVESH307/LeetCode/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/DEVESH307/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
@@ -343,8 +345,8 @@
 | [2351-first-letter-to-appear-twice](https://github.com/DEVESH307/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [3312-sorted-gcd-pair-queries](https://github.com/DEVESH307/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Simulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0054-spiral-matrix](https://github.com/DEVESH307/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/DEVESH307/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/DEVESH307/LeetCode/tree/master/0067-add-binary) |
@@ -354,8 +356,8 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/DEVESH307/LeetCode/tree/main/Python3/Medium/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2549-count-distinct-numbers-on-board](https://github.com/DEVESH307/LeetCode/tree/master/2549-count-distinct-numbers-on-board) |
 ## Greedy
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0179-largest-number](https://github.com/DEVESH307/LeetCode/tree/master/0179-largest-number) |
 | [0435-non-overlapping-intervals](https://github.com/DEVESH307/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/DEVESH307/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -367,16 +369,16 @@
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/DEVESH307/LeetCode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/DEVESH307/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Breadth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0100-same-tree](https://github.com/DEVESH307/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/DEVESH307/LeetCode/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/DEVESH307/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0994-rotting-oranges](https://github.com/DEVESH307/LeetCode/tree/master/0994-rotting-oranges) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/DEVESH307/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Matrix
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0036-valid-sudoku](https://github.com/DEVESH307/LeetCode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/DEVESH307/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/DEVESH307/LeetCode/tree/master/0054-spiral-matrix) |
@@ -393,8 +395,8 @@
 | [2643-row-with-maximum-ones](https://github.com/DEVESH307/LeetCode/tree/master/2643-row-with-maximum-ones) |
 | [2965-find-missing-and-repeated-values](https://github.com/DEVESH307/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Prefix Sum
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/DEVESH307/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/DEVESH307/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/DEVESH307/LeetCode/tree/master/0303-range-sum-query-immutable) |
@@ -414,8 +416,9 @@
 | [1737-change-minimum-characters-to-satisfy-one-of-three-conditions](https://github.com/DEVESH307/LeetCode/tree/master/1737-change-minimum-characters-to-satisfy-one-of-three-conditions) |
 | [3312-sorted-gcd-pair-queries](https://github.com/DEVESH307/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Binary Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/DEVESH307/LeetCode/tree/main/Python3/Hard/0004-median-of-two-sorted-arrays/) | Hard |
 | [0033-search-in-rotated-sorted-array](https://github.com/DEVESH307/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/DEVESH307/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/DEVESH307/LeetCode/tree/master/0035-search-insert-position) |
@@ -441,13 +444,13 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/DEVESH307/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3312-sorted-gcd-pair-queries](https://github.com/DEVESH307/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Geometry
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/DEVESH307/LeetCode/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/DEVESH307/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Number Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0204-count-primes](https://github.com/DEVESH307/LeetCode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/DEVESH307/LeetCode/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DEVESH307/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -459,51 +462,51 @@
 | [3312-sorted-gcd-pair-queries](https://github.com/DEVESH307/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/DEVESH307/LeetCode/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 ## Queue
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0341-flatten-nested-list-iterator](https://github.com/DEVESH307/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
 | [0387-first-unique-character-in-a-string](https://github.com/DEVESH307/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## Union-Find
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/DEVESH307/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 ## Combinatorics
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2063-vowels-of-all-substrings](https://github.com/DEVESH307/LeetCode/tree/master/2063-vowels-of-all-substrings) |
 | [3312-sorted-gcd-pair-queries](https://github.com/DEVESH307/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Trie
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/DEVESH307/LeetCode/tree/master/0014-longest-common-prefix) |
 ## Brainteaser
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/DEVESH307/LeetCode/tree/master/2425-bitwise-xor-of-all-pairings) |
 ## Recursion
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0050-powx-n](https://github.com/DEVESH307/LeetCode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/DEVESH307/LeetCode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/DEVESH307/LeetCode/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/DEVESH307/LeetCode/tree/master/0779-k-th-symbol-in-grammar) |
 ## Memoization
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0509-fibonacci-number](https://github.com/DEVESH307/LeetCode/tree/master/0509-fibonacci-number) |
 ## Backtracking
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0078-subsets](https://github.com/DEVESH307/LeetCode/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/DEVESH307/LeetCode/tree/master/0089-gray-code) |
 | [0257-binary-tree-paths](https://github.com/DEVESH307/LeetCode/tree/master/0257-binary-tree-paths) |
 ## Linked List
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0707-design-linked-list](https://github.com/DEVESH307/LeetCode/tree/master/0707-design-linked-list) |
 ## Design
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0155-min-stack](https://github.com/DEVESH307/LeetCode/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/DEVESH307/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/DEVESH307/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
@@ -511,8 +514,8 @@
 | [0341-flatten-nested-list-iterator](https://github.com/DEVESH307/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
 | [0707-design-linked-list](https://github.com/DEVESH307/LeetCode/tree/master/0707-design-linked-list) |
 ## Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0020-valid-parentheses](https://github.com/DEVESH307/LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/DEVESH307/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/DEVESH307/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
@@ -523,8 +526,8 @@
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/DEVESH307/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0962-maximum-width-ramp](https://github.com/DEVESH307/LeetCode/tree/main/0962-maximum-width-ramp/) | Medium |
 ## Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/DEVESH307/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/DEVESH307/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/DEVESH307/LeetCode/tree/master/0101-symmetric-tree) |
@@ -537,8 +540,8 @@
 | [0938-range-sum-of-bst](https://github.com/DEVESH307/LeetCode/tree/master/0938-range-sum-of-bst) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/DEVESH307/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/DEVESH307/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/DEVESH307/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/DEVESH307/LeetCode/tree/master/0101-symmetric-tree) |
@@ -550,12 +553,12 @@
 | [0938-range-sum-of-bst](https://github.com/DEVESH307/LeetCode/tree/master/0938-range-sum-of-bst) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/DEVESH307/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Iterator
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0341-flatten-nested-list-iterator](https://github.com/DEVESH307/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
 ## Binary Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/DEVESH307/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/DEVESH307/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/DEVESH307/LeetCode/tree/master/0101-symmetric-tree) |
@@ -567,66 +570,66 @@
 | [0938-range-sum-of-bst](https://github.com/DEVESH307/LeetCode/tree/master/0938-range-sum-of-bst) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/DEVESH307/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0938-range-sum-of-bst](https://github.com/DEVESH307/LeetCode/tree/master/0938-range-sum-of-bst) |
 ## Monotonic Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/DEVESH307/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/DEVESH307/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0962-maximum-width-ramp](https://github.com/DEVESH307/LeetCode/tree/main/0962-maximum-width-ramp/) | Medium |
 ## Binary Indexed Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0307-range-sum-query-mutable](https://github.com/DEVESH307/LeetCode/tree/master/0307-range-sum-query-mutable) |
 | [0493-reverse-pairs](https://github.com/DEVESH307/LeetCode/tree/master/0493-reverse-pairs) |
 ## Segment Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0307-range-sum-query-mutable](https://github.com/DEVESH307/LeetCode/tree/master/0307-range-sum-query-mutable) |
 | [0493-reverse-pairs](https://github.com/DEVESH307/LeetCode/tree/master/0493-reverse-pairs) |
 ## Ordered Set
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/DEVESH307/LeetCode/tree/main/0363-max-sum-of-rectangle-no-larger-than-k/) | Hard |
 | [0493-reverse-pairs](https://github.com/DEVESH307/LeetCode/tree/master/0493-reverse-pairs) |
 ## Enumeration
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0204-count-primes](https://github.com/DEVESH307/LeetCode/tree/master/0204-count-primes) |
 | [2761-prime-pairs-with-target-sum](https://github.com/DEVESH307/LeetCode/tree/master/2761-prime-pairs-with-target-sum) |
 ## Heap (Priority Queue)
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/DEVESH307/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/DEVESH307/LeetCode/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/DEVESH307/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/DEVESH307/LeetCode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Merge Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0493-reverse-pairs](https://github.com/DEVESH307/LeetCode/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/DEVESH307/LeetCode/tree/master/0912-sort-an-array) |
 ## Bucket Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0912-sort-an-array](https://github.com/DEVESH307/LeetCode/tree/master/0912-sort-an-array) |
 ## Radix Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0912-sort-an-array](https://github.com/DEVESH307/LeetCode/tree/master/0912-sort-an-array) |
 ## Counting Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0912-sort-an-array](https://github.com/DEVESH307/LeetCode/tree/master/0912-sort-an-array) |
 ## Quickselect
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/DEVESH307/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/DEVESH307/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Interactive
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1095-find-in-mountain-array](https://github.com/DEVESH307/LeetCode/tree/master/1095-find-in-mountain-array) |
 <!---LeetCode Topics End-->
