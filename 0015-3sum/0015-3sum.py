@@ -8,6 +8,12 @@ class Solution:
             # skip duplicate anchors
             if i > 0 and nums[i] == nums[i - 1]:
                 continue
+            # pruning (minimum possible sum)
+            if nums[i] + nums[i+1] + nums[i+2] > 0:
+                break
+            # pruning (maximum possible sum)
+            if nums[i] + nums[n-1] + nums[n-2] < 0:
+                continue
 
             left, right = i + 1, n - 1
 
