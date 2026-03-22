@@ -1,3 +1,24 @@
+# # won't work for negative nos
+# class Solution:
+#     def subarraySum(self, nums: List[int], k: int) -> int:
+#         n = len(nums)
+#         left = 0
+#         curr_sum = 0
+#         ans = 0
+
+#         for right in range(n):
+#             curr_sum += nums[right]
+
+#             while left <= right and curr_sum > k:
+#                 curr_sum -= nums[left]
+#                 left += 1
+
+#             if curr_sum == k and left <= right:
+#                 ans += 1
+
+#         return ans
+
+
 # class Solution:
 #     def subarraySum(self, nums: List[int], k: int) -> int:
 #         n = len(nums)
@@ -48,3 +69,6 @@ class Solution:
             ps_count[curr_sum] = ps_count.get(curr_sum, 0) + 1
         
         return ans
+
+
+
