@@ -16,21 +16,50 @@
 #         return len(pairs)
 
 
+# class Solution:
+#     def findPairs(self, nums: List[int], k: int) -> int:
+#         if k < 0:
+#             return 0
+
+#         seen = set()
+#         pairs = set()
+
+#         for num in nums:
+#             if num - k in seen:
+#                 pairs.add(num - k)
+
+#             if num + k in seen:
+#                 pairs.add(num)
+
+#             seen.add(num)
+
+#         return len(pairs)
+
+
 class Solution:
     def findPairs(self, nums: List[int], k: int) -> int:
-        if k < 0:
-            return 0
+        nums.sort()
+        n = len(nums)
+        left = 0
+        right = 1
+        ans = 0
+        pair = set()
 
-        seen = set()
-        pairs = set()
+        while right < n :
+            if left == right:
+                right += 1
+                continue
 
-        for num in nums:
-            if num - k in seen:
-                pairs.add(num - k)
+            diff = nums[right] - nums[left]
 
-            if num + k in seen:
-                pairs.add(num)
+            if diff == k:
+                pair.add((nums[left], nums[right]))
+                left += 1
+                right += 1
+            elif diff < k:
+                right += 1
+            else:
+                left += 1
 
-            seen.add(num)
+        return len(pair)
 
-        return len(pairs)
