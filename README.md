@@ -64,6 +64,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/DEVESH307/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/DEVESH307/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/DEVESH307/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0611-valid-triangle-number](https://github.com/DEVESH307/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/DEVESH307/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/DEVESH307/LeetCode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/DEVESH307/LeetCode/tree/master/0724-find-pivot-index) |
@@ -166,6 +167,7 @@
 | [0344-reverse-string](https://github.com/DEVESH307/LeetCode/tree/master/0344-reverse-string) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/DEVESH307/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/DEVESH307/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0611-valid-triangle-number](https://github.com/DEVESH307/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/DEVESH307/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/DEVESH307/LeetCode/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0821-shortest-distance-to-a-character](https://github.com/DEVESH307/LeetCode/tree/master/0821-shortest-distance-to-a-character) |
@@ -303,6 +305,7 @@
 | [0435-non-overlapping-intervals](https://github.com/DEVESH307/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/DEVESH307/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/DEVESH307/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0611-valid-triangle-number](https://github.com/DEVESH307/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0910-smallest-range-ii](https://github.com/DEVESH307/LeetCode/tree/master/0910-smallest-range-ii) |
 | [0912-sort-an-array](https://github.com/DEVESH307/LeetCode/tree/master/0912-sort-an-array) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/DEVESH307/LeetCode/tree/master/0945-minimum-increment-to-make-array-unique) |
@@ -388,6 +391,7 @@
 | [0179-largest-number](https://github.com/DEVESH307/LeetCode/tree/master/0179-largest-number) |
 | [0435-non-overlapping-intervals](https://github.com/DEVESH307/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/DEVESH307/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0611-valid-triangle-number](https://github.com/DEVESH307/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/DEVESH307/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0910-smallest-range-ii](https://github.com/DEVESH307/LeetCode/tree/master/0910-smallest-range-ii) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/DEVESH307/LeetCode/tree/master/0945-minimum-increment-to-make-array-unique) |
@@ -464,6 +468,7 @@
 | [0493-reverse-pairs](https://github.com/DEVESH307/LeetCode/tree/master/0493-reverse-pairs) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/DEVESH307/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/DEVESH307/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0611-valid-triangle-number](https://github.com/DEVESH307/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/DEVESH307/LeetCode/tree/master/0704-binary-search) |
 | [0878-nth-magical-number](https://github.com/DEVESH307/LeetCode/tree/master/0878-nth-magical-number) |
 | [1004-max-consecutive-ones-iii](https://github.com/DEVESH307/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
