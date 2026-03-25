@@ -20,10 +20,10 @@ class Solution:
     def rotateString(self, s: str, goal: str) -> bool:
         if len(s) != len(goal):
             return False
-            
+
         n = len(s)
         ans = 0
-        string = goal + '$' + s + s
+        string = s + '$' + goal + goal
         LPS = self.compute_lps(string)
 
         for i in range(len(LPS)):
