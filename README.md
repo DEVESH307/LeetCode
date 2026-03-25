@@ -196,6 +196,7 @@
 | [0219-contains-duplicate-ii](https://github.com/DEVESH307/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/DEVESH307/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/DEVESH307/LeetCode/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/DEVESH307/LeetCode/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/DEVESH307/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/DEVESH307/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0523-continuous-subarray-sum](https://github.com/DEVESH307/LeetCode/tree/master/0523-continuous-subarray-sum) |
@@ -286,6 +287,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/DEVESH307/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/DEVESH307/LeetCode/tree/master/0179-largest-number) |
 | [0257-binary-tree-paths](https://github.com/DEVESH307/LeetCode/tree/master/0257-binary-tree-paths) |
+| [0290-word-pattern](https://github.com/DEVESH307/LeetCode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/DEVESH307/LeetCode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/DEVESH307/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/DEVESH307/LeetCode/tree/master/0412-fizz-buzz) |
