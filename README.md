@@ -292,6 +292,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/DEVESH307/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0520-detect-capital](https://github.com/DEVESH307/LeetCode/tree/master/0520-detect-capital) |
 | [0680-valid-palindrome-ii](https://github.com/DEVESH307/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [0796-rotate-string](https://github.com/DEVESH307/LeetCode/tree/master/0796-rotate-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/DEVESH307/LeetCode/tree/master/0821-shortest-distance-to-a-character) |
 | [0953-verifying-an-alien-dictionary](https://github.com/DEVESH307/LeetCode/tree/master/0953-verifying-an-alien-dictionary) |
 | [1177-can-make-palindrome-from-substring](https://github.com/DEVESH307/LeetCode/tree/master/1177-can-make-palindrome-from-substring) |
@@ -689,4 +690,8 @@
 |  |
 | ------- |
 | [1095-find-in-mountain-array](https://github.com/DEVESH307/LeetCode/tree/master/1095-find-in-mountain-array) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/DEVESH307/LeetCode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
