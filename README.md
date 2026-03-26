@@ -158,6 +158,7 @@
 | [0015-3sum](https://github.com/DEVESH307/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/DEVESH307/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/DEVESH307/LeetCode/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/DEVESH307/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DEVESH307/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/DEVESH307/LeetCode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/DEVESH307/LeetCode/tree/master/0042-trapping-rain-water) |
@@ -564,6 +565,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/DEVESH307/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0707-design-linked-list](https://github.com/DEVESH307/LeetCode/tree/master/0707-design-linked-list) |
 ## Design
 |  |
