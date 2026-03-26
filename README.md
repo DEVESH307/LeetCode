@@ -566,6 +566,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/DEVESH307/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/DEVESH307/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0707-design-linked-list](https://github.com/DEVESH307/LeetCode/tree/master/0707-design-linked-list) |
 ## Design
 |  |
