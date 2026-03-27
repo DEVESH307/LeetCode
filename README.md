@@ -610,6 +610,7 @@
 | [0206-reverse-linked-list](https://github.com/DEVESH307/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/DEVESH307/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/DEVESH307/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/DEVESH307/LeetCode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0707-design-linked-list](https://github.com/DEVESH307/LeetCode/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/DEVESH307/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/DEVESH307/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
@@ -663,6 +664,7 @@
 | [0226-invert-binary-tree](https://github.com/DEVESH307/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/DEVESH307/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0341-flatten-nested-list-iterator](https://github.com/DEVESH307/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/DEVESH307/LeetCode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0938-range-sum-of-bst](https://github.com/DEVESH307/LeetCode/tree/master/0938-range-sum-of-bst) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/DEVESH307/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Iterator
@@ -753,4 +755,8 @@
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/DEVESH307/LeetCode/tree/master/0796-rotate-string) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/DEVESH307/LeetCode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
