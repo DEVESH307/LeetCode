@@ -215,6 +215,7 @@
 | [0290-word-pattern](https://github.com/DEVESH307/LeetCode/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/DEVESH307/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/DEVESH307/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0460-lfu-cache](https://github.com/DEVESH307/LeetCode/tree/master/0460-lfu-cache) |
 | [0523-continuous-subarray-sum](https://github.com/DEVESH307/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/DEVESH307/LeetCode/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/DEVESH307/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -613,6 +614,7 @@
 | [0234-palindrome-linked-list](https://github.com/DEVESH307/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/DEVESH307/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/DEVESH307/LeetCode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0460-lfu-cache](https://github.com/DEVESH307/LeetCode/tree/master/0460-lfu-cache) |
 | [0707-design-linked-list](https://github.com/DEVESH307/LeetCode/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/DEVESH307/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/DEVESH307/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
@@ -626,6 +628,7 @@
 | [0304-range-sum-query-2d-immutable](https://github.com/DEVESH307/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/DEVESH307/LeetCode/tree/master/0307-range-sum-query-mutable) |
 | [0341-flatten-nested-list-iterator](https://github.com/DEVESH307/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
+| [0460-lfu-cache](https://github.com/DEVESH307/LeetCode/tree/master/0460-lfu-cache) |
 | [0707-design-linked-list](https://github.com/DEVESH307/LeetCode/tree/master/0707-design-linked-list) |
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/DEVESH307/LeetCode/tree/master/1865-finding-pairs-with-a-certain-sum) |
 ## Stack
@@ -763,4 +766,5 @@
 | ------- |
 | [0146-lru-cache](https://github.com/DEVESH307/LeetCode/tree/master/0146-lru-cache) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/DEVESH307/LeetCode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0460-lfu-cache](https://github.com/DEVESH307/LeetCode/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
