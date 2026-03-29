@@ -318,6 +318,7 @@
 | [0953-verifying-an-alien-dictionary](https://github.com/DEVESH307/LeetCode/tree/master/0953-verifying-an-alien-dictionary) |
 | [1177-can-make-palindrome-from-substring](https://github.com/DEVESH307/LeetCode/tree/master/1177-can-make-palindrome-from-substring) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/DEVESH307/LeetCode/tree/master/1422-maximum-score-after-splitting-a-string) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/DEVESH307/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/DEVESH307/LeetCode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1737-change-minimum-characters-to-satisfy-one-of-three-conditions](https://github.com/DEVESH307/LeetCode/tree/master/1737-change-minimum-characters-to-satisfy-one-of-three-conditions) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/DEVESH307/LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -438,6 +439,7 @@
 | [0680-valid-palindrome-ii](https://github.com/DEVESH307/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0910-smallest-range-ii](https://github.com/DEVESH307/LeetCode/tree/master/0910-smallest-range-ii) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/DEVESH307/LeetCode/tree/master/0945-minimum-increment-to-make-array-unique) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/DEVESH307/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/DEVESH307/LeetCode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [2429-minimize-xor](https://github.com/DEVESH307/LeetCode/tree/master/2429-minimize-xor) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/DEVESH307/LeetCode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
@@ -645,6 +647,7 @@
 | [0341-flatten-nested-list-iterator](https://github.com/DEVESH307/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/DEVESH307/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0962-maximum-width-ramp](https://github.com/DEVESH307/LeetCode/tree/main/0962-maximum-width-ramp/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/DEVESH307/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Tree
 |  |
 | ------- |
