@@ -48,6 +48,26 @@
 #         return nums
 
 
+# # STACK SORT
+# class Solution:
+#     def sortArray(self, nums: List[int]) -> List[int]:
+#         stack1 = []
+#         # stack2 = []
+
+#         for i, num in enumerate(nums):
+#             stack2 = []
+#             if not stack1 or stack1[-1] <= num:
+#                 stack1.append(num)
+#             else:
+#                 while stack1 and stack1[-1] > num:
+#                     stack2.append(stack1.pop())
+#                 stack1.append(num)
+#                 while stack2:
+#                     stack1.append(stack2.pop())
+
+#         return stack1  
+
+
 # # Merge SORT
 # class Solution:
 #     # merge two sorted section within array
@@ -86,7 +106,7 @@
 #     # main function
 #     def sortArray(self, nums: List[int]) -> List[int]:
 #         self.mergeSort(nums, 0, len(nums)-1)
-#         return nums
+#         return nums      
 
 
 # # QUICK SORT
