@@ -221,6 +221,7 @@
 | [0525-contiguous-array](https://github.com/DEVESH307/LeetCode/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/DEVESH307/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/DEVESH307/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0895-maximum-frequency-stack](https://github.com/DEVESH307/LeetCode/tree/master/0895-maximum-frequency-stack) |
 | [0904-fruit-into-baskets](https://github.com/DEVESH307/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0953-verifying-an-alien-dictionary](https://github.com/DEVESH307/LeetCode/tree/master/0953-verifying-an-alien-dictionary) |
 | [0992-subarrays-with-k-different-integers](https://github.com/DEVESH307/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
@@ -637,6 +638,7 @@
 | [0341-flatten-nested-list-iterator](https://github.com/DEVESH307/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
 | [0460-lfu-cache](https://github.com/DEVESH307/LeetCode/tree/master/0460-lfu-cache) |
 | [0707-design-linked-list](https://github.com/DEVESH307/LeetCode/tree/master/0707-design-linked-list) |
+| [0895-maximum-frequency-stack](https://github.com/DEVESH307/LeetCode/tree/master/0895-maximum-frequency-stack) |
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/DEVESH307/LeetCode/tree/master/1865-finding-pairs-with-a-certain-sum) |
 ## Stack
 |  |
@@ -653,6 +655,7 @@
 | [0234-palindrome-linked-list](https://github.com/DEVESH307/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0341-flatten-nested-list-iterator](https://github.com/DEVESH307/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/DEVESH307/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0895-maximum-frequency-stack](https://github.com/DEVESH307/LeetCode/tree/master/0895-maximum-frequency-stack) |
 | [0962-maximum-width-ramp](https://github.com/DEVESH307/LeetCode/tree/main/0962-maximum-width-ramp/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/DEVESH307/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/DEVESH307/LeetCode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -727,6 +730,7 @@
 | ------- |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/DEVESH307/LeetCode/tree/main/0363-max-sum-of-rectangle-no-larger-than-k/) | Hard |
 | [0493-reverse-pairs](https://github.com/DEVESH307/LeetCode/tree/master/0493-reverse-pairs) |
+| [0895-maximum-frequency-stack](https://github.com/DEVESH307/LeetCode/tree/master/0895-maximum-frequency-stack) |
 ## Enumeration
 |  |
 | ------- |
