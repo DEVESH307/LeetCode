@@ -11,13 +11,12 @@ class Solution:
                 operand1 = stack.pop()
                 operand2 = stack.pop()
                 if token == '+':
-                    ans = operand2 + operand1
+                    stack.append(operand2 + operand1)
                 elif token == '-':
-                    ans = operand2 - operand1
+                    stack.append(operand2 - operand1)
                 elif token == '*':
-                    ans = operand2 * operand1
+                    stack.append(operand2 * operand1)
                 elif token == '/':
-                    ans = int(operand2/operand1)
-                stack.append(ans)
+                    stack.append(int(operand2/operand1))
 
-        return stack[-1]
+        return stack[0]
