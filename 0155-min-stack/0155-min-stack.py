@@ -89,6 +89,7 @@ class MinStack:
     def getMin(self) -> int:
         # Return -1 if empty, else current min
         return -1 if not self.stack else self.min_val
+        
 
 # Your MinStack object will be instantiated and called as such:
 # obj = MinStack()
