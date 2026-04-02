@@ -3,13 +3,11 @@ class Solution:
         if num == 1:
             return False
         total = 1
-        # arr = []
 
         for i in range(2, int(num**0.5) + 1):
             if num % i == 0:
                 total += i
                 total += num//i
-                # arr.append([i, num//i])
-        # print(arr)
+                
         return True if total == num else False 
         
