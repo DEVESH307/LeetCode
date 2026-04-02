@@ -61,6 +61,7 @@
 | [0485-max-consecutive-ones](https://github.com/DEVESH307/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/DEVESH307/LeetCode/tree/master/0493-reverse-pairs) |
 | [0498-diagonal-traverse](https://github.com/DEVESH307/LeetCode/tree/master/0498-diagonal-traverse) |
+| [0503-next-greater-element-ii](https://github.com/DEVESH307/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/DEVESH307/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/DEVESH307/LeetCode/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/DEVESH307/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -662,6 +663,7 @@
 | [0227-basic-calculator-ii](https://github.com/DEVESH307/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/DEVESH307/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0341-flatten-nested-list-iterator](https://github.com/DEVESH307/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
+| [0503-next-greater-element-ii](https://github.com/DEVESH307/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/DEVESH307/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0895-maximum-frequency-stack](https://github.com/DEVESH307/LeetCode/tree/master/0895-maximum-frequency-stack) |
 | [0907-sum-of-subarray-minimums](https://github.com/DEVESH307/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
@@ -724,6 +726,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/DEVESH307/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/DEVESH307/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0503-next-greater-element-ii](https://github.com/DEVESH307/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/DEVESH307/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0907-sum-of-subarray-minimums](https://github.com/DEVESH307/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [0962-maximum-width-ramp](https://github.com/DEVESH307/LeetCode/tree/main/0962-maximum-width-ramp/) | Medium |
