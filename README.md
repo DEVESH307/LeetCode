@@ -279,6 +279,7 @@
 | [0268-missing-number](https://github.com/DEVESH307/LeetCode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/DEVESH307/LeetCode/tree/master/0412-fizz-buzz) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/DEVESH307/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0507-perfect-number](https://github.com/DEVESH307/LeetCode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/DEVESH307/LeetCode/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/DEVESH307/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0779-k-th-symbol-in-grammar](https://github.com/DEVESH307/LeetCode/tree/master/0779-k-th-symbol-in-grammar) |
