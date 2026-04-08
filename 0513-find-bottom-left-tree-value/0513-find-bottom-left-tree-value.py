@@ -5,19 +5,39 @@
 #         self.left = left
 #         self.right = right
 
-from collections import deque
+# from collections import deque
+# class Solution:
+#     def findBottomLeftValue(self, root: Optional[TreeNode]) -> int:
+#         if not root:
+#             return []
+
+#         q = deque([root])
+
+#         while q:
+#             node = q.popleft()
+#             if node.right:
+#                 q.append(node.right)
+#             if node.left:
+#                 q.append(node.left)
+
+#         return node.val
+
+
 class Solution:
     def findBottomLeftValue(self, root: Optional[TreeNode]) -> int:
-        if not root:
-            return []
+        self.max_depth = -1
+        self.ans = None
 
-        q = deque([root])
+        def dfs(node, depth):
+            if not node:
+                return
 
-        while q:
-            node = q.popleft()
-            if node.right:
-                q.append(node.right)
-            if node.left:
-                q.append(node.left)
+            if depth > self.max_depth:
+                self.max_depth = depth
+                self.ans = node.val
 
-        return node.val
+            dfs(node.left, depth + 1)
+            dfs(node.right, depth + 1)
+
+        dfs(root, 0)
+        return self.ans
