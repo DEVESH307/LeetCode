@@ -29,31 +29,51 @@
 #         return self.isBalanced(root.left) and self.isBalanced(root.right)
         
 
-# Binary tree node info
-class NodeInfo:
-    def __init__(self, balanced, height):
-        self.balanced = balanced
-        self.height = height 
+# # Binary tree node info
+# class NodeInfo:
+#     def __init__(self, balanced, height):
+#         self.balanced = balanced
+#         self.height = height 
+
+# class Solution:
+#     def isBalanced(self, root: Optional[TreeNode]) -> bool:
+#         def dfs(node):
+#             if not node:
+#                 return NodeInfo(True, -1)
+
+#             left = dfs(node.left)
+#             right = dfs(node.right)
+
+#             balanced = (
+#                 left.balanced and
+#                 right.balanced and
+#                 abs(left.height - right.height) <= 1
+#             )
+            
+#             height = max(left.height, right.height) + 1
+
+#             return NodeInfo(balanced, height)
+
+#         return dfs(root).balanced
+
 
 class Solution:
     def isBalanced(self, root: Optional[TreeNode]) -> bool:
         def dfs(node):
             if not node:
-                return NodeInfo(True, -1)
+                return 0
 
             left = dfs(node.left)
+            if left == -1:
+                return -1
+
             right = dfs(node.right)
+            if right == -1:
+                return -1
 
-            balanced = (
-                left.balanced and
-                right.balanced and
-                abs(left.height - right.height) <= 1
-            )
-            
-            height = max(left.height, right.height) + 1
+            if abs(left - right) > 1:
+                return -1
 
-            return NodeInfo(balanced, height)
+            return max(left, right) + 1
 
-        return dfs(root).balanced
-
-        
+        return True if dfs(root) != -1 else False
