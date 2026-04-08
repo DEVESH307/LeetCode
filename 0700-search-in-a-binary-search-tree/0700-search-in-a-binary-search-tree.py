@@ -4,6 +4,8 @@
 #         self.val = val
 #         self.left = left
 #         self.right = right
+
+
 # class Solution:
 #     def searchBST(self, root: Optional[TreeNode], val: int) -> Optional[TreeNode]:
 #         if not root:
@@ -15,6 +17,7 @@
 #             return self.searchBST(root.left, val)
 #         else:
 #             return self.searchBST(root.right, val)
+
 
 class Solution:
     def searchBST(self, root: Optional[TreeNode], val: int) -> Optional[TreeNode]:
