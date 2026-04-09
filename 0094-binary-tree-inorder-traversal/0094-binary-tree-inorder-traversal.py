@@ -26,15 +26,15 @@ class Solution:
         stack = []
         result = []
 
-        curr = root
+        node = root
 
-        while curr or stack:
-            if curr:
-                stack.append(curr)
-                curr = curr.left
-            else:
-                temp = stack.pop()
-                result.append(temp.val)
-                curr = temp.right
+        while node or stack:
+            while node:
+                stack.append(node)
+                node = node.left
+
+            node = stack.pop()
+            result.append(node.val)
+            node = node.right
 
         return result
