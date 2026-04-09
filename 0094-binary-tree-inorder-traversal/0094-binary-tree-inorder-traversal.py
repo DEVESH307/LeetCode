@@ -23,9 +23,11 @@
 
 class Solution:
     def inorderTraversal(self, root: Optional[TreeNode]) -> List[int]:
+        if not root:
+            return []
+
         stack = []
         result = []
-
         node = root
 
         while node or stack:
