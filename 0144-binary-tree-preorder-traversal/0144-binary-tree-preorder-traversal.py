@@ -20,21 +20,46 @@
 #         return result
 
 
+# class Solution:
+#     def preorderTraversal(self, root: Optional[TreeNode]) -> List[int]:
+#         if not root:
+#             return []
+
+#         stack = [root]
+#         result = []
+
+#         while stack:
+#             node = stack.pop()
+#             result.append(node.val)
+
+#             if node.right:
+#                 stack.append(node.right)
+#             if node.left:
+#                 stack.append(node.left)
+
+#         return result
+
+
 class Solution:
     def preorderTraversal(self, root: Optional[TreeNode]) -> List[int]:
-        if not root:
-            return []
-
-        stack = [root]
         result = []
+        curr = root
 
-        while stack:
-            node = stack.pop()
-            result.append(node.val)
+        while curr:
+            if not curr.left:
+                result.append(curr.val)
+                curr = curr.right
+            else:
+                pred = curr.left
+                while pred.right and pred.right != curr:
+                    pred = pred.right
 
-            if node.right:
-                stack.append(node.right)
-            if node.left:
-                stack.append(node.left)
+                if not pred.right:
+                    result.append(curr.val)
+                    pred.right = curr
+                    curr = curr.left
+                else:
+                    pred.right = None
+                    curr = curr.right
 
         return result
