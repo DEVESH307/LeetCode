@@ -726,6 +726,7 @@
 | [0341-flatten-nested-list-iterator](https://github.com/DEVESH307/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
 | [0450-delete-node-in-a-bst](https://github.com/DEVESH307/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/DEVESH307/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
+| [0669-trim-a-binary-search-tree](https://github.com/DEVESH307/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/DEVESH307/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/DEVESH307/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/DEVESH307/LeetCode/tree/master/0938-range-sum-of-bst) |
@@ -752,6 +753,7 @@
 | [0341-flatten-nested-list-iterator](https://github.com/DEVESH307/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/DEVESH307/LeetCode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0513-find-bottom-left-tree-value](https://github.com/DEVESH307/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
+| [0669-trim-a-binary-search-tree](https://github.com/DEVESH307/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/DEVESH307/LeetCode/tree/master/0938-range-sum-of-bst) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/DEVESH307/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/DEVESH307/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -785,6 +787,7 @@
 | [0257-binary-tree-paths](https://github.com/DEVESH307/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/DEVESH307/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/DEVESH307/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
+| [0669-trim-a-binary-search-tree](https://github.com/DEVESH307/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/DEVESH307/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/DEVESH307/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/DEVESH307/LeetCode/tree/master/0938-range-sum-of-bst) |
@@ -800,6 +803,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DEVESH307/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/DEVESH307/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/DEVESH307/LeetCode/tree/master/0450-delete-node-in-a-bst) |
+| [0669-trim-a-binary-search-tree](https://github.com/DEVESH307/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/DEVESH307/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/DEVESH307/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/DEVESH307/LeetCode/tree/master/0938-range-sum-of-bst) |
