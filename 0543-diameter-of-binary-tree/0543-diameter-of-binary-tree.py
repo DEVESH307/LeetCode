@@ -56,18 +56,37 @@
 #         return NodeInfo(height, diameter)
 
 
+# class Solution:
+#     def diameterOfBinaryTree(self, root: Optional[TreeNode]) -> int:
+#         def dfs(node):
+#             if not node:
+#                 return -1, -1
+
+#             lh, ld = dfs(node.left)
+#             rh, rd = dfs(node.right)
+
+#             height = max(lh, rh) + 1
+#             diameter = max(ld, rd, lh + rh + 2)
+
+#             return height, diameter
+
+#         return dfs(root)[1]
+
+
 class Solution:
     def diameterOfBinaryTree(self, root: Optional[TreeNode]) -> int:
-        def dfs(node):
+        self.diameter = 0
+
+        def height(node):
             if not node:
-                return -1, -1
+                return -1
 
-            lh, ld = dfs(node.left)
-            rh, rd = dfs(node.right)
+            lh = height(node.left)
+            rh = height(node.right)
 
-            height = max(lh, rh) + 1
-            diameter = max(ld, rd, lh + rh + 2)
+            self.diameter = max(self.diameter, lh + rh + 2)
 
-            return height, diameter
+            return max(lh, rh) + 1
 
-        return dfs(root)[1]
+        height(root)
+        return self.diameter
