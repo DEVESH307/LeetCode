@@ -40,18 +40,17 @@ class Node:
 
 class Solution:
     def connect(self, root: 'Optional[Node]') -> 'Optional[Node]':
-        if not root:
-            return root
-
         level = root
 
-        while level and level.left:
+        while level:
             curr = level
+
             while curr:
-                curr.left.next = curr.right
-                
-                if curr.next:
-                    curr.right.next = curr.next.left
+                if curr.left:
+                    curr.left.next = curr.right
+                    
+                    if curr.next:
+                        curr.right.next = curr.next.left
                 
                 curr = curr.next
 
