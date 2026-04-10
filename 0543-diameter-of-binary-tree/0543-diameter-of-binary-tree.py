@@ -29,28 +29,45 @@
 #         return max(left_dia, right_dia, height_LST + height_RST + 2)
 
 
-class NodeInfo:
-    def __init__(self, height, diameter):
-        self.height = height
-        self.diameter = diameter
+# class NodeInfo:
+#     def __init__(self, height, diameter):
+#         self.height = height
+#         self.diameter = diameter
+
+
+# class Solution:
+#     def diameterOfBinaryTree(self, root: Optional[TreeNode]) -> int:
+#         return self.diameterOfBinaryTreeHelper(root).diameter
+
+#     def diameterOfBinaryTreeHelper(self, root):
+#         if not root:
+#             return NodeInfo(-1, 0)
+
+#         left = self.diameterOfBinaryTreeHelper(root.left)
+#         right = self.diameterOfBinaryTreeHelper(root.right)
+
+#         height = max(left.height, right.height) + 1
+#         diameter = max(
+#             left.diameter,
+#             right.diameter,
+#             left.height + right.height + 2
+#         )
+
+#         return NodeInfo(height, diameter)
 
 
 class Solution:
     def diameterOfBinaryTree(self, root: Optional[TreeNode]) -> int:
-        return self.diameterOfBinaryTreeHelper(root).diameter
+        def dfs(node):
+            if not node:
+                return -1, -1
 
-    def diameterOfBinaryTreeHelper(self, root):
-        if not root:
-            return NodeInfo(-1, 0)
+            lh, ld = dfs(node.left)
+            rh, rd = dfs(node.right)
 
-        left = self.diameterOfBinaryTreeHelper(root.left)
-        right = self.diameterOfBinaryTreeHelper(root.right)
+            height = max(lh, rh) + 1
+            diameter = max(ld, rd, lh + rh + 2)
 
-        height = max(left.height, right.height) + 1
-        diameter = max(
-            left.diameter,
-            right.diameter,
-            left.height + right.height + 2
-        )
+            return height, diameter
 
-        return NodeInfo(height, diameter)
+        return dfs(root)[1]
