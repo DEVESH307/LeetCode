@@ -333,6 +333,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/DEVESH307/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/DEVESH307/LeetCode/tree/master/0412-fizz-buzz) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/DEVESH307/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0449-serialize-and-deserialize-bst](https://github.com/DEVESH307/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0520-detect-capital](https://github.com/DEVESH307/LeetCode/tree/master/0520-detect-capital) |
 | [0680-valid-palindrome-ii](https://github.com/DEVESH307/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/DEVESH307/LeetCode/tree/master/0796-rotate-string) |
@@ -488,6 +489,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/DEVESH307/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/DEVESH307/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/DEVESH307/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/DEVESH307/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/DEVESH307/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/DEVESH307/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/DEVESH307/LeetCode/tree/master/0994-rotting-oranges) |
@@ -677,6 +679,7 @@
 | [0304-range-sum-query-2d-immutable](https://github.com/DEVESH307/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/DEVESH307/LeetCode/tree/master/0307-range-sum-query-mutable) |
 | [0341-flatten-nested-list-iterator](https://github.com/DEVESH307/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
+| [0449-serialize-and-deserialize-bst](https://github.com/DEVESH307/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0460-lfu-cache](https://github.com/DEVESH307/LeetCode/tree/master/0460-lfu-cache) |
 | [0707-design-linked-list](https://github.com/DEVESH307/LeetCode/tree/master/0707-design-linked-list) |
 | [0895-maximum-frequency-stack](https://github.com/DEVESH307/LeetCode/tree/master/0895-maximum-frequency-stack) |
@@ -736,6 +739,7 @@
 | [0257-binary-tree-paths](https://github.com/DEVESH307/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/DEVESH307/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0341-flatten-nested-list-iterator](https://github.com/DEVESH307/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
+| [0449-serialize-and-deserialize-bst](https://github.com/DEVESH307/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/DEVESH307/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/DEVESH307/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/DEVESH307/LeetCode/tree/master/0543-diameter-of-binary-tree) |
@@ -771,6 +775,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/DEVESH307/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0341-flatten-nested-list-iterator](https://github.com/DEVESH307/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/DEVESH307/LeetCode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0449-serialize-and-deserialize-bst](https://github.com/DEVESH307/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/DEVESH307/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/DEVESH307/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/DEVESH307/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
@@ -811,6 +816,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/DEVESH307/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/DEVESH307/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/DEVESH307/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/DEVESH307/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/DEVESH307/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/DEVESH307/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/DEVESH307/LeetCode/tree/master/0543-diameter-of-binary-tree) |
@@ -832,6 +838,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DEVESH307/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/DEVESH307/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/DEVESH307/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/DEVESH307/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/DEVESH307/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0669-trim-a-binary-search-tree](https://github.com/DEVESH307/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/DEVESH307/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
