@@ -9,27 +9,27 @@ class Trie:
         self.root = TrieNode()
 
     def insert(self, word: str) -> None:
-        curr = self.root
+        node = self.root
         for ch in word:
-            if ch not in curr.children:
-                curr.children[ch] = TrieNode()
-            curr = curr.children[ch]
-        curr.end = True
+            if ch not in node.children:
+                node.children[ch] = TrieNode()
+            node = node.children[ch]
+        node.end = True
 
     def search(self, word: str) -> bool:
-        curr = self.root
+        node = self.root
         for ch in word:
-            if ch not in curr.children:
+            if ch not in node.children:
                 return False
-            curr = curr.children[ch]
-        return curr.end
+            node = node.children[ch]
+        return node.end
 
     def startsWith(self, prefix: str) -> bool:
-        curr = self.root
+        node = self.root
         for ch in prefix:
-            if ch not in curr.children:
+            if ch not in node.children:
                 return False
-            curr = curr.children[ch]
+            node = node.children[ch]
         return True
         
 
