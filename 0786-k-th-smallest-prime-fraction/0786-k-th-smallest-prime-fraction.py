@@ -15,20 +15,58 @@ import heapq
 #         return [arr[j], arr[i]]
         
 
+# class Solution:
+#     def kthSmallestPrimeFraction(self, arr: List[int], k: int) -> List[int]:
+#         n = len(arr)
+#         min_heap = []
+
+#         # push 1st fraction of each denominator
+#         for i in range(1, n):
+#             heapq.heappush(min_heap, (arr[0]/arr[i], 0, i))
+
+#         # pop k-1 smallest
+#         for _ in range(k-1):
+#             _, j, i = heapq.heappop(min_heap)
+#             if j + 1 < i:
+#                 heapq.heappush(min_heap, (arr[j+1]/arr[i], j+1, i))
+
+#         _, j, i = heapq.heappop(min_heap)
+#         return [arr[j], arr[i]]
+
+
 class Solution:
     def kthSmallestPrimeFraction(self, arr: List[int], k: int) -> List[int]:
         n = len(arr)
-        min_heap = []
 
-        # push 1st fraction of each denominator
-        for i in range(1, n):
-            heapq.heappush(min_heap, (arr[0]/arr[i], 0, i))
+        def count(mid):
+            j = 1
+            cnt = 0
+            num, den = 0, 1
 
-        # pop k-1 smallest
-        for _ in range(k-1):
-            _, j, i = heapq.heappop(min_heap)
-            if j + 1 < i:
-                heapq.heappush(min_heap, (arr[j+1]/arr[i], j+1, i))
+            for i in range(n - 1):
+                while j < n and arr[i] > mid * arr[j]:
+                    j += 1
 
-        _, j, i = heapq.heappop(min_heap)
-        return [arr[j], arr[i]]
+                if j == n:
+                    break
+
+                cnt += n - j
+
+                # best fraction <= mid
+                if arr[i] * den > num * arr[j]:
+                    num, den = arr[i], arr[j]
+
+            return cnt, num, den
+
+        lo, hi = 0.0, 1.0
+
+        while True:
+            mid = (lo + hi) / 2
+            cnt, num, den = count(mid)
+
+            if cnt == k:
+                return [num, den]
+            elif cnt < k:
+                lo = mid
+            else:
+                hi = mid
