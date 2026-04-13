@@ -61,6 +61,7 @@
 | [0304-range-sum-query-2d-immutable](https://github.com/DEVESH307/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/DEVESH307/LeetCode/tree/master/0307-range-sum-query-mutable) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/DEVESH307/LeetCode/tree/main/0363-max-sum-of-rectangle-no-larger-than-k/) | Hard |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/DEVESH307/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/DEVESH307/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/DEVESH307/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/DEVESH307/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -382,6 +383,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/DEVESH307/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/DEVESH307/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/DEVESH307/LeetCode/tree/master/0268-missing-number) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/DEVESH307/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/DEVESH307/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/DEVESH307/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/DEVESH307/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -536,6 +538,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/DEVESH307/LeetCode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0304-range-sum-query-2d-immutable](https://github.com/DEVESH307/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/DEVESH307/LeetCode/tree/main/0363-max-sum-of-rectangle-no-larger-than-k/) | Hard |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/DEVESH307/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0498-diagonal-traverse](https://github.com/DEVESH307/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0994-rotting-oranges](https://github.com/DEVESH307/LeetCode/tree/master/0994-rotting-oranges) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/DEVESH307/LeetCode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
@@ -583,6 +586,7 @@
 | [0268-missing-number](https://github.com/DEVESH307/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/DEVESH307/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/DEVESH307/LeetCode/tree/main/0363-max-sum-of-rectangle-no-larger-than-k/) | Hard |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/DEVESH307/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0493-reverse-pairs](https://github.com/DEVESH307/LeetCode/tree/master/0493-reverse-pairs) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/DEVESH307/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/DEVESH307/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -940,6 +944,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/DEVESH307/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DEVESH307/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/DEVESH307/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/DEVESH307/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/DEVESH307/LeetCode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0912-sort-an-array](https://github.com/DEVESH307/LeetCode/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/DEVESH307/LeetCode/tree/master/0973-k-closest-points-to-origin) |
