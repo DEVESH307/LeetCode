@@ -15,6 +15,19 @@
 #         return result
 
 
+# class Solution:
+#     def kClosest(self, points: List[List[int]], k: int) -> List[List[int]]:
+#         # function to calculate squared distance
+#         def distance(point):
+#             x = point[0]
+#             y = point[1]
+#             return x*x + y*y
+
+#         # sort using the distance function
+#         points.sort(key=distance)
+#         return points[:k]
+
+
 class Solution:
     def kClosest(self, points: List[List[int]], k: int) -> List[List[int]]:
         # function to calculate squared distance
@@ -23,6 +36,14 @@ class Solution:
             y = point[1]
             return x*x + y*y
 
-        # sort using the distance function
-        points.sort(key=distance)
-        return points[:k]
+        dist = [(distance(point), point) for point in points]
+        min_heap = dist[:]
+        heapq.heapify(min_heap)
+        
+        res = []
+
+        for _ in range(k):
+            dist, point = heapq.heappop(min_heap)
+            res.append(point)
+
+        return res
