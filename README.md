@@ -99,6 +99,7 @@
 | [0994-rotting-oranges](https://github.com/DEVESH307/LeetCode/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/DEVESH307/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/DEVESH307/LeetCode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1046-last-stone-weight](https://github.com/DEVESH307/LeetCode/tree/master/1046-last-stone-weight) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/DEVESH307/LeetCode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1095-find-in-mountain-array](https://github.com/DEVESH307/LeetCode/tree/master/1095-find-in-mountain-array) |
 | [1122-relative-sort-array](https://github.com/DEVESH307/LeetCode/tree/master/1122-relative-sort-array) |
@@ -963,6 +964,7 @@
 | [0786-k-th-smallest-prime-fraction](https://github.com/DEVESH307/LeetCode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0912-sort-an-array](https://github.com/DEVESH307/LeetCode/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/DEVESH307/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+| [1046-last-stone-weight](https://github.com/DEVESH307/LeetCode/tree/master/1046-last-stone-weight) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/DEVESH307/LeetCode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Merge Sort
 |  |
