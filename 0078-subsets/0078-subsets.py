@@ -22,15 +22,15 @@
 #         n = len(nums)
 #         result = []
 
-#         def dfs(index, path):
-#             if index == n:
+#         def dfs(start, path):
+#             if start == n:
 #                 result.append(path[:])
 #                 return
 
-#             path.append(nums[index])
-#             dfs(index + 1, path)
+#             path.append(nums[start])
+#             dfs(start + 1, path)
 #             path.pop()
-#             dfs(index + 1, path)            
+#             dfs(start + 1, path)            
 
 #         dfs(0, [])
 #         # result.sort()
@@ -41,10 +41,10 @@ class Solution:
     def subsets(self, nums: List[int]) -> List[List[int]]:
         result = []
 
-        def dfs(index, path):
+        def dfs(start, path):
             result.append(path[:])  # capture at every step
 
-            for i in range(index, len(nums)):
+            for i in range(start, len(nums)):
                 path.append(nums[i])
                 dfs(i + 1, path)
                 path.pop()
