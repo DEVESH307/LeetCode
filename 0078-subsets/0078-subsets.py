@@ -16,23 +16,61 @@
 #         return result
 
 
+# class Solution:
+#     def subsets(self, nums: List[int]) -> List[List[int]]:
+#         # nums.sort()
+#         n = len(nums)
+#         result = []
+
+#         def dfs(index, path):
+#             if index == n:
+#                 result.append(path[:])
+#                 return
+
+#             path.append(nums[index])
+#             dfs(index + 1, path)
+#             path.pop()
+#             dfs(index + 1, path)            
+
+#         dfs(0, [])
+#         # result.sort()
+#         return result
+
+
+
+# class Solution:
+#     def subsets(self, nums: List[int]) -> List[List[int]]:
+#         # nums.sort()
+#         n = len(nums)
+#         result = []
+
+#         def dfs(index, path):
+#             if index == n:
+#                 result.append(path[:])
+#                 return
+
+#             path.append(nums[index])
+#             dfs(index + 1, path)
+#             path.pop()
+#             dfs(index + 1, path)            
+
+#         dfs(0, [])
+#         # result.sort()
+#         return result
+
+
+
 class Solution:
     def subsets(self, nums: List[int]) -> List[List[int]]:
-        # nums.sort()
-        n = len(nums)
         result = []
 
-        def dfs(curr_idx, curr_list):
-            if curr_idx == n:
-                result.append(curr_list[:])
-                return
+        def dfs(index, path):
+            result.append(path[:])  # capture at every step
 
-            curr_list.append(nums[curr_idx])
-            dfs(curr_idx + 1, curr_list)
-            curr_list.pop()
-            dfs(curr_idx + 1, curr_list)            
+            for i in range(index, len(nums)):
+                path.append(nums[i])
+                dfs(i + 1, path)
+                path.pop()
 
         dfs(0, [])
-        # result.sort()
         return result
-
