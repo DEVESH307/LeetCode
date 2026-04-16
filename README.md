@@ -126,6 +126,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DEVESH307/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/DEVESH307/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/DEVESH307/LeetCode/tree/main/2016-maximum-difference-between-increasing-elements/) | Easy |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/DEVESH307/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/DEVESH307/LeetCode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2104-sum-of-subarray-ranges](https://github.com/DEVESH307/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/DEVESH307/LeetCode/tree/main/Python3/Medium/2149-rearrange-array-elements-by-sign/) | Medium |
@@ -413,6 +414,7 @@
 | [1552-magnetic-force-between-two-balls](https://github.com/DEVESH307/LeetCode/tree/main/Python3/Medium/1552-magnetic-force-between-two-balls/) | Medium |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/DEVESH307/LeetCode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/DEVESH307/LeetCode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/DEVESH307/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/DEVESH307/LeetCode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/DEVESH307/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sliding Window
@@ -509,6 +511,7 @@
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/DEVESH307/LeetCode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/DEVESH307/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/DEVESH307/LeetCode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/DEVESH307/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2429-minimize-xor](https://github.com/DEVESH307/LeetCode/tree/master/2429-minimize-xor) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/DEVESH307/LeetCode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/DEVESH307/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -990,6 +993,7 @@
 | ------- |
 | [0912-sort-an-array](https://github.com/DEVESH307/LeetCode/tree/master/0912-sort-an-array) |
 | [1122-relative-sort-array](https://github.com/DEVESH307/LeetCode/tree/master/1122-relative-sort-array) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/DEVESH307/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Quickselect
 |  |
 | ------- |
