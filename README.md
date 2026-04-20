@@ -310,6 +310,7 @@
 | [0066-plus-one](https://github.com/DEVESH307/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/DEVESH307/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/DEVESH307/LeetCode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/DEVESH307/LeetCode/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/DEVESH307/LeetCode/tree/master/0089-gray-code) |
 | [0149-max-points-on-a-line](https://github.com/DEVESH307/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/DEVESH307/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -479,6 +480,7 @@
 | [0022-generate-parentheses](https://github.com/DEVESH307/LeetCode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/DEVESH307/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/DEVESH307/LeetCode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/DEVESH307/LeetCode/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/DEVESH307/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0338-counting-bits](https://github.com/DEVESH307/LeetCode/tree/master/0338-counting-bits) |
 | [0435-non-overlapping-intervals](https://github.com/DEVESH307/LeetCode/tree/master/0435-non-overlapping-intervals) |
@@ -703,6 +705,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/DEVESH307/LeetCode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/DEVESH307/LeetCode/tree/master/0509-fibonacci-number) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/DEVESH307/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Backtracking
