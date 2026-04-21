@@ -104,6 +104,7 @@
 | [0907-sum-of-subarray-minimums](https://github.com/DEVESH307/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [0910-smallest-range-ii](https://github.com/DEVESH307/LeetCode/tree/master/0910-smallest-range-ii) |
 | [0912-sort-an-array](https://github.com/DEVESH307/LeetCode/tree/master/0912-sort-an-array) |
+| [0931-minimum-falling-path-sum](https://github.com/DEVESH307/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/DEVESH307/LeetCode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0953-verifying-an-alien-dictionary](https://github.com/DEVESH307/LeetCode/tree/master/0953-verifying-an-alien-dictionary) |
 | [0962-maximum-width-ramp](https://github.com/DEVESH307/LeetCode/tree/main/0962-maximum-width-ramp/) | Medium |
@@ -500,6 +501,7 @@
 | [0509-fibonacci-number](https://github.com/DEVESH307/LeetCode/tree/master/0509-fibonacci-number) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/DEVESH307/LeetCode/tree/master/0898-bitwise-ors-of-subarrays) |
 | [0907-sum-of-subarray-minimums](https://github.com/DEVESH307/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
+| [0931-minimum-falling-path-sum](https://github.com/DEVESH307/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [0996-number-of-squareful-arrays](https://github.com/DEVESH307/LeetCode/tree/master/0996-number-of-squareful-arrays) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/DEVESH307/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2063-vowels-of-all-substrings](https://github.com/DEVESH307/LeetCode/tree/master/2063-vowels-of-all-substrings) |
@@ -594,6 +596,7 @@
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/DEVESH307/LeetCode/tree/main/0363-max-sum-of-rectangle-no-larger-than-k/) | Hard |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/DEVESH307/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0498-diagonal-traverse](https://github.com/DEVESH307/LeetCode/tree/master/0498-diagonal-traverse) |
+| [0931-minimum-falling-path-sum](https://github.com/DEVESH307/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/DEVESH307/LeetCode/tree/master/0994-rotting-oranges) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/DEVESH307/LeetCode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1572-matrix-diagonal-sum](https://github.com/DEVESH307/LeetCode/tree/master/1572-matrix-diagonal-sum) |
