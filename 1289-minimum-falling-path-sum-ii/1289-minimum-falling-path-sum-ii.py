@@ -45,20 +45,41 @@
 #         return min(dfs(n - 1, j) for j in range(n))
 
 
+# class Solution:
+#     def minFallingPathSum(self, grid: List[List[int]]) -> int:
+#         n = len(grid)
+#         dp = [[0] * n for _ in range(n)]
+#         # base case
+#         dp[0] = grid[0][:]
+
+#         for i in range(1, n):
+#             for j in range(n):
+#                 res = float('inf')
+#                 for k in range(n):
+#                     if k != j:
+#                         res = min(res, dp[i - 1][k])
+
+#                 dp[i][j] = grid[i][j] + res
+
+#         return min(dp[n - 1])
+
+
 class Solution:
     def minFallingPathSum(self, grid: List[List[int]]) -> int:
         n = len(grid)
         dp = [[0] * n for _ in range(n)]
         # base case
-        dp[0] = grid[0][:]
+        prev = grid[0][:]
 
         for i in range(1, n):
+            curr = [0] * n
             for j in range(n):
                 res = float('inf')
                 for k in range(n):
                     if k != j:
-                        res = min(res, dp[i - 1][k])
+                        res = min(res, prev[k])
 
-                dp[i][j] = grid[i][j] + res
+                curr[j] = grid[i][j] + res
+            prev = curr
 
-        return min(dp[n - 1])
+        return min(prev)
