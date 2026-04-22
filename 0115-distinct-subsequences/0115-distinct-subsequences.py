@@ -19,26 +19,69 @@
 #         return dfs(l1, l2)
         
         
+# class Solution:
+#     def numDistinct(self, s: str, t: str) -> int:
+#         l1, l2 = len(s), len(t)
+        
+#         dp = [[-1] * (l2 + 1) for _ in range(l1 + 1)]
+        
+#         def dfs(i, j):
+#             if j == 0:
+#                 return 1
+#             if i == 0:
+#                 return 0
+            
+#             if dp[i][j] != -1:
+#                 return dp[i][j]
+            
+#             if s[i-1] != t[j-1]:
+#                 dp[i][j] = dfs(i-1, j)
+#             else:
+#                 dp[i][j] = dfs(i-1, j-1) + dfs(i-1, j)
+            
+#             return dp[i][j]
+        
+#         return dfs(l1, l2)
+
+
+# class Solution:
+#     def numDistinct(self, s: str, t: str) -> int:
+#         l1, l2 = len(s), len(t)
+        
+#         dp = [[0] * (l2 + 1) for _ in range(l1 + 1)]
+        
+#         # base case: empty t
+#         for i in range(l1 + 1):
+#             dp[i][0] = 1
+        
+#         # fill table
+#         for i in range(1, l1 + 1):
+#             for j in range(1, l2 + 1):
+#                 if s[i-1] == t[j-1]:
+#                     dp[i][j] = dp[i-1][j-1] + dp[i-1][j]
+#                 else:
+#                     dp[i][j] = dp[i-1][j]
+        
+#         return dp[l1][l2]
+
+
 class Solution:
     def numDistinct(self, s: str, t: str) -> int:
         l1, l2 = len(s), len(t)
         
-        dp = [[-1] * (l2 + 1) for _ in range(l1 + 1)]
+        prev = [0] * (l2 + 1)
+        prev[0] = 1   # base case
         
-        def dfs(i, j):
-            if j == 0:
-                return 1
-            if i == 0:
-                return 0
+        for i in range(1, l1 + 1):
+            curr = [0] * (l2 + 1)
+            curr[0] = 1   # empty t
             
-            if dp[i][j] != -1:
-                return dp[i][j]
+            for j in range(1, l2 + 1):
+                if s[i-1] == t[j-1]:
+                    curr[j] = prev[j-1] + prev[j]
+                else:
+                    curr[j] = prev[j]
             
-            if s[i-1] != t[j-1]:
-                dp[i][j] = dfs(i-1, j)
-            else:
-                dp[i][j] = dfs(i-1, j-1) + dfs(i-1, j)
-            
-            return dp[i][j]
+            prev = curr
         
-        return dfs(l1, l2)
+        return prev[l2]
