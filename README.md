@@ -393,6 +393,7 @@
 | [0821-shortest-distance-to-a-character](https://github.com/DEVESH307/LeetCode/tree/master/0821-shortest-distance-to-a-character) |
 | [0953-verifying-an-alien-dictionary](https://github.com/DEVESH307/LeetCode/tree/master/0953-verifying-an-alien-dictionary) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/DEVESH307/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1143-longest-common-subsequence](https://github.com/DEVESH307/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1177-can-make-palindrome-from-substring](https://github.com/DEVESH307/LeetCode/tree/master/1177-can-make-palindrome-from-substring) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/DEVESH307/LeetCode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/DEVESH307/LeetCode/tree/master/1422-maximum-score-after-splitting-a-string) |
@@ -506,6 +507,7 @@
 | [0907-sum-of-subarray-minimums](https://github.com/DEVESH307/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [0931-minimum-falling-path-sum](https://github.com/DEVESH307/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [0996-number-of-squareful-arrays](https://github.com/DEVESH307/LeetCode/tree/master/0996-number-of-squareful-arrays) |
+| [1143-longest-common-subsequence](https://github.com/DEVESH307/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/DEVESH307/LeetCode/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/DEVESH307/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2063-vowels-of-all-substrings](https://github.com/DEVESH307/LeetCode/tree/master/2063-vowels-of-all-substrings) |
