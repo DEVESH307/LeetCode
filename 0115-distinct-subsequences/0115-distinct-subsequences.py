@@ -65,23 +65,44 @@
 #         return dp[l1][l2]
 
 
+# class Solution:
+#     def numDistinct(self, s: str, t: str) -> int:
+#         l1, l2 = len(s), len(t)
+#         if l2 > l1:
+#             return 0
+        
+#         prev = [0] * (l2 + 1)
+#         prev[0] = 1   # base case
+        
+#         for i in range(1, l1 + 1):
+#             curr = [0] * (l2 + 1)
+#             curr[0] = 1   # empty t
+            
+#             for j in range(1, l2 + 1):
+#                 if s[i-1] == t[j-1]:
+#                     curr[j] = prev[j-1] + prev[j]
+#                 else:
+#                     curr[j] = prev[j]
+            
+#             prev = curr
+        
+#         return prev[l2]\
+
+
 class Solution:
     def numDistinct(self, s: str, t: str) -> int:
         l1, l2 = len(s), len(t)
         
-        prev = [0] * (l2 + 1)
-        prev[0] = 1   # base case
+        if l2 > l1:
+            return 0
+        
+        dp = [0] * (l2 + 1)
+        dp[0] = 1   # empty t
         
         for i in range(1, l1 + 1):
-            curr = [0] * (l2 + 1)
-            curr[0] = 1   # empty t
-            
-            for j in range(1, l2 + 1):
+            # iterate backwards
+            for j in range(l2, 0, -1):
                 if s[i-1] == t[j-1]:
-                    curr[j] = prev[j-1] + prev[j]
-                else:
-                    curr[j] = prev[j]
-            
-            prev = curr
+                    dp[j] += dp[j-1]
         
-        return prev[l2]
+        return dp[l2]
