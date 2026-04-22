@@ -375,6 +375,7 @@
 | [0072-edit-distance](https://github.com/DEVESH307/LeetCode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/DEVESH307/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/DEVESH307/LeetCode/tree/master/0091-decode-ways) |
+| [0115-distinct-subsequences](https://github.com/DEVESH307/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/DEVESH307/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/DEVESH307/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/DEVESH307/LeetCode/tree/master/0179-largest-number) |
@@ -498,6 +499,7 @@
 | [0072-edit-distance](https://github.com/DEVESH307/LeetCode/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/DEVESH307/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/DEVESH307/LeetCode/tree/master/0091-decode-ways) |
+| [0115-distinct-subsequences](https://github.com/DEVESH307/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/DEVESH307/LeetCode/tree/master/0120-triangle) |
 | [0174-dungeon-game](https://github.com/DEVESH307/LeetCode/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/DEVESH307/LeetCode/tree/master/0198-house-robber) |
