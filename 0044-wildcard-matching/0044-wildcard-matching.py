@@ -143,6 +143,7 @@
 #         return prev[lp]
 
 
+# Optimal solution (Greedy, O(n + m))
 class Solution:
     def isMatch(self, s: str, p: str) -> bool:
         i = j = 0
