@@ -11,9 +11,6 @@
 #             if j == 0:
 #                 return False
 
-#             # check current match
-#             match = (i > 0 and (p[j-1] == s[i-1] or p[j-1] == '.'))
-
 #             # handle '*'
 #             if j >= 2 and p[j-1] == '*':
 #                 # match with preceding character of '*'
