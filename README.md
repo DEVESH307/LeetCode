@@ -366,6 +366,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DEVESH307/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/DEVESH307/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/DEVESH307/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/DEVESH307/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/DEVESH307/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/DEVESH307/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
@@ -493,6 +494,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/DEVESH307/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/DEVESH307/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/DEVESH307/LeetCode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/DEVESH307/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/DEVESH307/LeetCode/tree/master/0044-wildcard-matching) |
@@ -729,6 +731,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/DEVESH307/LeetCode/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/DEVESH307/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/DEVESH307/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/DEVESH307/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/DEVESH307/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
