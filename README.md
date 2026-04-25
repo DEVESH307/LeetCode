@@ -102,6 +102,7 @@
 | [0724-find-pivot-index](https://github.com/DEVESH307/LeetCode/tree/master/0724-find-pivot-index) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/DEVESH307/LeetCode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/DEVESH307/LeetCode/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
+| [0805-split-array-with-same-average](https://github.com/DEVESH307/LeetCode/tree/master/0805-split-array-with-same-average) |
 | [0821-shortest-distance-to-a-character](https://github.com/DEVESH307/LeetCode/tree/master/0821-shortest-distance-to-a-character) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/DEVESH307/LeetCode/tree/master/0898-bitwise-ors-of-subarrays) |
 | [0904-fruit-into-baskets](https://github.com/DEVESH307/LeetCode/tree/master/0904-fruit-into-baskets) |
@@ -191,6 +192,7 @@
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/DEVESH307/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0461-hamming-distance](https://github.com/DEVESH307/LeetCode/tree/master/0461-hamming-distance) |
 | [0779-k-th-symbol-in-grammar](https://github.com/DEVESH307/LeetCode/tree/master/0779-k-th-symbol-in-grammar) |
+| [0805-split-array-with-same-average](https://github.com/DEVESH307/LeetCode/tree/master/0805-split-array-with-same-average) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/DEVESH307/LeetCode/tree/master/0898-bitwise-ors-of-subarrays) |
 | [0996-number-of-squareful-arrays](https://github.com/DEVESH307/LeetCode/tree/master/0996-number-of-squareful-arrays) |
 | [1177-can-make-palindrome-from-substring](https://github.com/DEVESH307/LeetCode/tree/master/1177-can-make-palindrome-from-substring) |
@@ -284,6 +286,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/DEVESH307/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/DEVESH307/LeetCode/tree/master/0575-distribute-candies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/DEVESH307/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0805-split-array-with-same-average](https://github.com/DEVESH307/LeetCode/tree/master/0805-split-array-with-same-average) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/DEVESH307/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0895-maximum-frequency-stack](https://github.com/DEVESH307/LeetCode/tree/master/0895-maximum-frequency-stack) |
 | [0904-fruit-into-baskets](https://github.com/DEVESH307/LeetCode/tree/master/0904-fruit-into-baskets) |
@@ -345,6 +348,7 @@
 | [0523-continuous-subarray-sum](https://github.com/DEVESH307/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DEVESH307/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0779-k-th-symbol-in-grammar](https://github.com/DEVESH307/LeetCode/tree/master/0779-k-th-symbol-in-grammar) |
+| [0805-split-array-with-same-average](https://github.com/DEVESH307/LeetCode/tree/master/0805-split-array-with-same-average) |
 | [0836-rectangle-overlap](https://github.com/DEVESH307/LeetCode/tree/master/0836-rectangle-overlap) |
 | [0878-nth-magical-number](https://github.com/DEVESH307/LeetCode/tree/master/0878-nth-magical-number) |
 | [0910-smallest-range-ii](https://github.com/DEVESH307/LeetCode/tree/master/0910-smallest-range-ii) |
@@ -534,6 +538,7 @@
 | [0509-fibonacci-number](https://github.com/DEVESH307/LeetCode/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/DEVESH307/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/DEVESH307/LeetCode/tree/master/0518-coin-change-ii) |
+| [0805-split-array-with-same-average](https://github.com/DEVESH307/LeetCode/tree/master/0805-split-array-with-same-average) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/DEVESH307/LeetCode/tree/master/0898-bitwise-ors-of-subarrays) |
 | [0907-sum-of-subarray-minimums](https://github.com/DEVESH307/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [0931-minimum-falling-path-sum](https://github.com/DEVESH307/LeetCode/tree/master/0931-minimum-falling-path-sum) |
@@ -1128,6 +1133,7 @@
 ## Bitmask
 |  |
 | ------- |
+| [0805-split-array-with-same-average](https://github.com/DEVESH307/LeetCode/tree/master/0805-split-array-with-same-average) |
 | [0996-number-of-squareful-arrays](https://github.com/DEVESH307/LeetCode/tree/master/0996-number-of-squareful-arrays) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/DEVESH307/LeetCode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 <!---LeetCode Topics End-->
