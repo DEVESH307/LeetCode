@@ -23,5 +23,3 @@ class Solution:
 
         dfs(0, [])
         return result
-                    
-        
