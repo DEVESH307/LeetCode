@@ -39,13 +39,13 @@ class Solution:
         widths = [w for h, w in envelopes]
         
         # Step 3: LIS (O(N log N))
-        lis = []
+        tails = []
         
         for w in widths:
-            idx = bisect_left(lis, w)
-            if idx == len(lis):
-                lis.append(w)
+            idx = bisect_left(tails, w)
+            if idx == len(tails):
+                tails.append(w)
             else:
-                lis[idx] = w
+                tails[idx] = w
         
-        return len(lis)
+        return len(tails)
