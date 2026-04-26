@@ -51,6 +51,7 @@
 | [0136-single-number](https://github.com/DEVESH307/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/DEVESH307/LeetCode/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/DEVESH307/LeetCode/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/DEVESH307/LeetCode/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/DEVESH307/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/DEVESH307/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/DEVESH307/LeetCode/tree/master/0162-find-peak-element) |
@@ -266,6 +267,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/DEVESH307/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/DEVESH307/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/DEVESH307/LeetCode/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/DEVESH307/LeetCode/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/DEVESH307/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/DEVESH307/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/DEVESH307/LeetCode/tree/master/0146-lru-cache) |
@@ -398,6 +400,7 @@
 | [0131-palindrome-partitioning](https://github.com/DEVESH307/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/DEVESH307/LeetCode/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/DEVESH307/LeetCode/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/DEVESH307/LeetCode/tree/master/0140-word-break-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/DEVESH307/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/DEVESH307/LeetCode/tree/master/0179-largest-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/DEVESH307/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
@@ -532,6 +535,7 @@
 | [0131-palindrome-partitioning](https://github.com/DEVESH307/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/DEVESH307/LeetCode/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/DEVESH307/LeetCode/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/DEVESH307/LeetCode/tree/master/0140-word-break-ii) |
 | [0174-dungeon-game](https://github.com/DEVESH307/LeetCode/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/DEVESH307/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/DEVESH307/LeetCode/tree/master/0213-house-robber-ii) |
@@ -756,6 +760,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/DEVESH307/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/DEVESH307/LeetCode/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/DEVESH307/LeetCode/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/DEVESH307/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/DEVESH307/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [3076-shortest-uncommon-substring-in-an-array](https://github.com/DEVESH307/LeetCode/tree/master/3076-shortest-uncommon-substring-in-an-array) |
@@ -785,6 +790,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/DEVESH307/LeetCode/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/DEVESH307/LeetCode/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/DEVESH307/LeetCode/tree/master/0140-word-break-ii) |
 | [0509-fibonacci-number](https://github.com/DEVESH307/LeetCode/tree/master/0509-fibonacci-number) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/DEVESH307/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Backtracking
@@ -803,6 +809,7 @@
 | [0089-gray-code](https://github.com/DEVESH307/LeetCode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/DEVESH307/LeetCode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/DEVESH307/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0140-word-break-ii](https://github.com/DEVESH307/LeetCode/tree/master/0140-word-break-ii) |
 | [0257-binary-tree-paths](https://github.com/DEVESH307/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0996-number-of-squareful-arrays](https://github.com/DEVESH307/LeetCode/tree/master/0996-number-of-squareful-arrays) |
 ## Linked List
