@@ -643,6 +643,7 @@
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/DEVESH307/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/DEVESH307/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1609-even-odd-tree](https://github.com/DEVESH307/LeetCode/tree/master/1609-even-odd-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/DEVESH307/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/DEVESH307/LeetCode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Matrix
 |  |
@@ -763,6 +764,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/DEVESH307/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/DEVESH307/LeetCode/tree/master/0200-number-of-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/DEVESH307/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1971-find-if-path-exists-in-graph](https://github.com/DEVESH307/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Combinatorics
 |  |
 | ------- |
@@ -989,6 +991,7 @@
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/DEVESH307/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/DEVESH307/LeetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/DEVESH307/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/DEVESH307/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/DEVESH307/LeetCode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Iterator
 |  |
@@ -1166,4 +1169,8 @@
 | [0805-split-array-with-same-average](https://github.com/DEVESH307/LeetCode/tree/master/0805-split-array-with-same-average) |
 | [0996-number-of-squareful-arrays](https://github.com/DEVESH307/LeetCode/tree/master/0996-number-of-squareful-arrays) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/DEVESH307/LeetCode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Graph Theory
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/DEVESH307/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
