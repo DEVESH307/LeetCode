@@ -3,7 +3,7 @@ from collections import defaultdict, deque
 class Solution:
     def validPath(self, n, edges, source, destination):
 
-        # Build graph (UNDIRECTED — don't mess this up)
+        # Build graph
         graph = defaultdict(list)
         for u, v in edges:
             graph[u].append(v)
