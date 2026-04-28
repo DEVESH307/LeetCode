@@ -98,6 +98,7 @@
 | [0525-contiguous-array](https://github.com/DEVESH307/LeetCode/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/DEVESH307/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/DEVESH307/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0542-01-matrix](https://github.com/DEVESH307/LeetCode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/DEVESH307/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/DEVESH307/LeetCode/tree/master/0575-distribute-candies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/DEVESH307/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -558,6 +559,7 @@
 | [0509-fibonacci-number](https://github.com/DEVESH307/LeetCode/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/DEVESH307/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/DEVESH307/LeetCode/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/DEVESH307/LeetCode/tree/master/0542-01-matrix) |
 | [0805-split-array-with-same-average](https://github.com/DEVESH307/LeetCode/tree/master/0805-split-array-with-same-average) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/DEVESH307/LeetCode/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/DEVESH307/LeetCode/tree/master/0898-bitwise-ors-of-subarrays) |
@@ -639,6 +641,7 @@
 | [0322-coin-change](https://github.com/DEVESH307/LeetCode/tree/master/0322-coin-change) |
 | [0449-serialize-and-deserialize-bst](https://github.com/DEVESH307/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/DEVESH307/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
+| [0542-01-matrix](https://github.com/DEVESH307/LeetCode/tree/master/0542-01-matrix) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/DEVESH307/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/DEVESH307/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0785-is-graph-bipartite](https://github.com/DEVESH307/LeetCode/tree/master/0785-is-graph-bipartite) |
@@ -672,6 +675,7 @@
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/DEVESH307/LeetCode/tree/main/0363-max-sum-of-rectangle-no-larger-than-k/) | Hard |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/DEVESH307/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0498-diagonal-traverse](https://github.com/DEVESH307/LeetCode/tree/master/0498-diagonal-traverse) |
+| [0542-01-matrix](https://github.com/DEVESH307/LeetCode/tree/master/0542-01-matrix) |
 | [0931-minimum-falling-path-sum](https://github.com/DEVESH307/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/DEVESH307/LeetCode/tree/master/0994-rotting-oranges) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/DEVESH307/LeetCode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
