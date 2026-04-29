@@ -152,6 +152,7 @@
 | [1664-ways-to-make-a-fair-array](https://github.com/DEVESH307/LeetCode/tree/master/1664-ways-to-make-a-fair-array) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/DEVESH307/LeetCode/tree/master/1691-maximum-height-by-stacking-cuboids) |
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/DEVESH307/LeetCode/tree/master/1865-finding-pairs-with-a-certain-sum) |
+| [1928-minimum-cost-to-reach-destination-in-time](https://github.com/DEVESH307/LeetCode/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DEVESH307/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/DEVESH307/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/DEVESH307/LeetCode/tree/main/2016-maximum-difference-between-increasing-elements/) | Easy |
@@ -571,6 +572,7 @@
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/DEVESH307/LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/DEVESH307/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/DEVESH307/LeetCode/tree/master/1691-maximum-height-by-stacking-cuboids) |
+| [1928-minimum-cost-to-reach-destination-in-time](https://github.com/DEVESH307/LeetCode/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/DEVESH307/LeetCode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2063-vowels-of-all-substrings](https://github.com/DEVESH307/LeetCode/tree/master/2063-vowels-of-all-substrings) |
 | [3693-climbing-stairs-ii](https://github.com/DEVESH307/LeetCode/tree/master/3693-climbing-stairs-ii) |
@@ -1196,6 +1198,7 @@
 | [0785-is-graph-bipartite](https://github.com/DEVESH307/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/DEVESH307/LeetCode/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0886-possible-bipartition](https://github.com/DEVESH307/LeetCode/tree/master/0886-possible-bipartition) |
+| [1928-minimum-cost-to-reach-destination-in-time](https://github.com/DEVESH307/LeetCode/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [1971-find-if-path-exists-in-graph](https://github.com/DEVESH307/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Shortest Path
 |  |
