@@ -154,6 +154,7 @@
 | [1664-ways-to-make-a-fair-array](https://github.com/DEVESH307/LeetCode/tree/master/1664-ways-to-make-a-fair-array) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/DEVESH307/LeetCode/tree/master/1691-maximum-height-by-stacking-cuboids) |
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/DEVESH307/LeetCode/tree/master/1865-finding-pairs-with-a-certain-sum) |
+| [1914-cyclically-rotating-a-grid](https://github.com/DEVESH307/LeetCode/tree/master/1914-cyclically-rotating-a-grid) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/DEVESH307/LeetCode/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DEVESH307/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/DEVESH307/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -608,6 +609,7 @@
 | [0258-add-digits](https://github.com/DEVESH307/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/DEVESH307/LeetCode/tree/master/0412-fizz-buzz) |
 | [0498-diagonal-traverse](https://github.com/DEVESH307/LeetCode/tree/master/0498-diagonal-traverse) |
+| [1914-cyclically-rotating-a-grid](https://github.com/DEVESH307/LeetCode/tree/master/1914-cyclically-rotating-a-grid) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/DEVESH307/LeetCode/tree/main/Python3/Medium/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2549-count-distinct-numbers-on-board](https://github.com/DEVESH307/LeetCode/tree/master/2549-count-distinct-numbers-on-board) |
 ## Greedy
@@ -698,6 +700,7 @@
 | [1091-shortest-path-in-binary-matrix](https://github.com/DEVESH307/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/DEVESH307/LeetCode/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1572-matrix-diagonal-sum](https://github.com/DEVESH307/LeetCode/tree/master/1572-matrix-diagonal-sum) |
+| [1914-cyclically-rotating-a-grid](https://github.com/DEVESH307/LeetCode/tree/master/1914-cyclically-rotating-a-grid) |
 | [2643-row-with-maximum-ones](https://github.com/DEVESH307/LeetCode/tree/master/2643-row-with-maximum-ones) |
 | [2965-find-missing-and-repeated-values](https://github.com/DEVESH307/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Prefix Sum
