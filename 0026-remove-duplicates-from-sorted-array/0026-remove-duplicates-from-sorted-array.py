@@ -1,10 +1,20 @@
+# class Solution:
+#     def removeDuplicates(self, nums: List[int]) -> int:
+#         nums[:] = sorted(list(set(nums)))
+#         return len(nums)
+
+
 class Solution:
     def removeDuplicates(self, nums: List[int]) -> int:
-        if not nums:
+        n = len(nums)
+
+        if n == 0:
             return 0
-        k=1
-        for i in range(1,len(nums)):
-            if nums[i]!=nums[i-1]:
-                nums[k]=nums[i]
-                k+=1
-        return k
+
+        i = 0
+        for j in range(n):
+            if nums[i] != nums[j]:
+                i += 1
+                nums[i] = nums[j]
+
+        return i + 1
