@@ -28,6 +28,7 @@
 | [0051-n-queens](https://github.com/DEVESH307/LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/DEVESH307/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/DEVESH307/LeetCode/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/DEVESH307/LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/DEVESH307/LeetCode/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/DEVESH307/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/DEVESH307/LeetCode/tree/master/0063-unique-paths-ii) |
@@ -466,6 +467,7 @@
 | [0016-3sum-closest](https://github.com/DEVESH307/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/DEVESH307/LeetCode/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/DEVESH307/LeetCode/tree/master/0047-permutations-ii) |
+| [0056-merge-intervals](https://github.com/DEVESH307/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/DEVESH307/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/DEVESH307/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/DEVESH307/LeetCode/tree/master/0148-sort-list) |
