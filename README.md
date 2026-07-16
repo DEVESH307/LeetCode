@@ -129,6 +129,7 @@
 | [0953-verifying-an-alien-dictionary](https://github.com/DEVESH307/LeetCode/tree/master/0953-verifying-an-alien-dictionary) |
 | [0962-maximum-width-ramp](https://github.com/DEVESH307/LeetCode/tree/main/0962-maximum-width-ramp/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/DEVESH307/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+| [0986-interval-list-intersections](https://github.com/DEVESH307/LeetCode/tree/master/0986-interval-list-intersections) |
 | [0992-subarrays-with-k-different-integers](https://github.com/DEVESH307/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/DEVESH307/LeetCode/tree/master/0994-rotting-oranges) |
 | [0996-number-of-squareful-arrays](https://github.com/DEVESH307/LeetCode/tree/master/0996-number-of-squareful-arrays) |
@@ -264,6 +265,7 @@
 | [0821-shortest-distance-to-a-character](https://github.com/DEVESH307/LeetCode/tree/master/0821-shortest-distance-to-a-character) |
 | [0876-middle-of-the-linked-list](https://github.com/DEVESH307/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [0962-maximum-width-ramp](https://github.com/DEVESH307/LeetCode/tree/main/0962-maximum-width-ramp/) | Medium |
+| [0986-interval-list-intersections](https://github.com/DEVESH307/LeetCode/tree/master/0986-interval-list-intersections) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/DEVESH307/LeetCode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/DEVESH307/LeetCode/tree/main/Python3/Medium/1508-range-sum-of-sorted-subarray-sums/) | Medium |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/DEVESH307/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
@@ -1251,4 +1253,8 @@
 | ------- |
 | [0207-course-schedule](https://github.com/DEVESH307/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/DEVESH307/LeetCode/tree/master/0210-course-schedule-ii) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/DEVESH307/LeetCode/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
