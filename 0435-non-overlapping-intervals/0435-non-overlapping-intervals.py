@@ -6,8 +6,6 @@ class Solution(object):
         """
         if not intervals:
             return 0
-        intervals.sort(key=lambda x: x[1])
-        start, end = intervals[0]
                             
         intervals.sort(key=lambda x: x[0])
         last_end = intervals[0][1]
