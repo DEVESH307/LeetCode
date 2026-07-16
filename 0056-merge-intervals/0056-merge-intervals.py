@@ -5,18 +5,18 @@ class Solution(object):
         :rtype: List[List[int]]
         """
         intervals.sort(key=lambda x: x[0])
-        li_start, li_end = intervals[0]
+        start, end = intervals[0]
         res = []
 
-        for start, end in intervals[1:]:
-            if li_end < start:
-                res.append([li_start, li_end])
-                li_start = start
-                li_end = end
+        for curr_start, curr_end in intervals[1:]:
+            if end < curr_start:
+                res.append([start, end])
+                start, end = curr_start, curr_end
             else:
-                li_start = min(li_start, start)
-                li_end = max(li_end, end)
-        res.append([li_start, li_end])
+                # start = min(start, curr_start)
+                end = max(end, curr_end)
+
+        res.append([start, end])
         return res
 
         
