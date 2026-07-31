@@ -839,6 +839,7 @@
 | [0139-word-break](https://github.com/DEVESH307/LeetCode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/DEVESH307/LeetCode/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/DEVESH307/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+| [0386-lexicographical-numbers](https://github.com/DEVESH307/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/DEVESH307/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [3076-shortest-uncommon-substring-in-an-array](https://github.com/DEVESH307/LeetCode/tree/master/3076-shortest-uncommon-substring-in-an-array) |
 ## Brainteaser
@@ -1045,6 +1046,7 @@
 | [0257-binary-tree-paths](https://github.com/DEVESH307/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/DEVESH307/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0341-flatten-nested-list-iterator](https://github.com/DEVESH307/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
+| [0386-lexicographical-numbers](https://github.com/DEVESH307/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0388-longest-absolute-file-path](https://github.com/DEVESH307/LeetCode/tree/master/0388-longest-absolute-file-path) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/DEVESH307/LeetCode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0449-serialize-and-deserialize-bst](https://github.com/DEVESH307/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
