@@ -440,6 +440,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/DEVESH307/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/DEVESH307/LeetCode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/DEVESH307/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0388-longest-absolute-file-path](https://github.com/DEVESH307/LeetCode/tree/master/0388-longest-absolute-file-path) |
 | [0392-is-subsequence](https://github.com/DEVESH307/LeetCode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/DEVESH307/LeetCode/tree/master/0412-fizz-buzz) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/DEVESH307/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -956,6 +957,7 @@
 | [0227-basic-calculator-ii](https://github.com/DEVESH307/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/DEVESH307/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0341-flatten-nested-list-iterator](https://github.com/DEVESH307/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
+| [0388-longest-absolute-file-path](https://github.com/DEVESH307/LeetCode/tree/master/0388-longest-absolute-file-path) |
 | [0496-next-greater-element-i](https://github.com/DEVESH307/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/DEVESH307/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/DEVESH307/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -1043,6 +1045,7 @@
 | [0257-binary-tree-paths](https://github.com/DEVESH307/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/DEVESH307/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0341-flatten-nested-list-iterator](https://github.com/DEVESH307/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
+| [0388-longest-absolute-file-path](https://github.com/DEVESH307/LeetCode/tree/master/0388-longest-absolute-file-path) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/DEVESH307/LeetCode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0449-serialize-and-deserialize-bst](https://github.com/DEVESH307/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/DEVESH307/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
