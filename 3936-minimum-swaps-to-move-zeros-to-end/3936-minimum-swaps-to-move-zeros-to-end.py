@@ -1,18 +1,18 @@
 class Solution:
     def minimumSwaps(self, nums: list[int]) -> int:
-        i = 0
-        j = len(nums)-1
+        left = 0
+        right = len(nums)-1
         ans = 0
 
-        while i < j:
-            if nums[i] == 0 and nums[j] != 0:
-                nums[i], nums[j] = nums[j], nums[i]
+        while left < right:
+            if nums[left] == 0 and nums[right] != 0:
+                nums[left], nums[right] = nums[right], nums[left]
                 ans += 1
-                i += 1
-                j -= 1
-            elif nums[i] != 0:
-                i += 1
-            elif nums[j] == 0:
-                j -= 1
+                left += 1
+                right -= 1
+            elif nums[left] != 0:
+                left += 1
+            elif nums[right] == 0:
+                right -= 1
 
         return ans
