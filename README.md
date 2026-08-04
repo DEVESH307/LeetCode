@@ -198,6 +198,7 @@
 | [3731-find-missing-elements](https://github.com/DEVESH307/LeetCode/tree/master/3731-find-missing-elements) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/DEVESH307/LeetCode/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/DEVESH307/LeetCode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
+| [3937-minimum-operations-to-make-array-modulo-alternating-i](https://github.com/DEVESH307/LeetCode/tree/master/3937-minimum-operations-to-make-array-modulo-alternating-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -1181,6 +1182,7 @@
 | ------- |
 | [0204-count-primes](https://github.com/DEVESH307/LeetCode/tree/master/0204-count-primes) |
 | [2761-prime-pairs-with-target-sum](https://github.com/DEVESH307/LeetCode/tree/master/2761-prime-pairs-with-target-sum) |
+| [3937-minimum-operations-to-make-array-modulo-alternating-i](https://github.com/DEVESH307/LeetCode/tree/master/3937-minimum-operations-to-make-array-modulo-alternating-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
