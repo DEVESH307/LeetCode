@@ -197,6 +197,7 @@
 | [3693-climbing-stairs-ii](https://github.com/DEVESH307/LeetCode/tree/master/3693-climbing-stairs-ii) |
 | [3731-find-missing-elements](https://github.com/DEVESH307/LeetCode/tree/master/3731-find-missing-elements) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/DEVESH307/LeetCode/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/DEVESH307/LeetCode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -278,6 +279,7 @@
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/DEVESH307/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/DEVESH307/LeetCode/tree/main/Python3/Medium/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/DEVESH307/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/DEVESH307/LeetCode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Hash Table
 |  |
 | ------- |
