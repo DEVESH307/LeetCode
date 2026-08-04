@@ -195,6 +195,7 @@
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/DEVESH307/LeetCode/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/DEVESH307/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3693-climbing-stairs-ii](https://github.com/DEVESH307/LeetCode/tree/master/3693-climbing-stairs-ii) |
+| [3731-find-missing-elements](https://github.com/DEVESH307/LeetCode/tree/master/3731-find-missing-elements) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/DEVESH307/LeetCode/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 ## Bit Manipulation
 |  |
@@ -353,6 +354,7 @@
 | [2965-find-missing-and-repeated-values](https://github.com/DEVESH307/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3076-shortest-uncommon-substring-in-an-array](https://github.com/DEVESH307/LeetCode/tree/master/3076-shortest-uncommon-substring-in-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/DEVESH307/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3731-find-missing-elements](https://github.com/DEVESH307/LeetCode/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
@@ -516,6 +518,7 @@
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/DEVESH307/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/DEVESH307/LeetCode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/DEVESH307/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3731-find-missing-elements](https://github.com/DEVESH307/LeetCode/tree/master/3731-find-missing-elements) |
 ## Sliding Window
 |  |
 | ------- |
