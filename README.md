@@ -707,6 +707,7 @@
 | [1609-even-odd-tree](https://github.com/DEVESH307/LeetCode/tree/master/1609-even-odd-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/DEVESH307/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/DEVESH307/LeetCode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
+| [3310-remove-methods-from-project](https://github.com/DEVESH307/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Matrix
 |  |
 | ------- |
@@ -1077,6 +1078,7 @@
 | [1448-count-good-nodes-in-binary-tree](https://github.com/DEVESH307/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/DEVESH307/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/DEVESH307/LeetCode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
+| [3310-remove-methods-from-project](https://github.com/DEVESH307/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Iterator
 |  |
 | ------- |
@@ -1268,6 +1270,7 @@
 | [0886-possible-bipartition](https://github.com/DEVESH307/LeetCode/tree/master/0886-possible-bipartition) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/DEVESH307/LeetCode/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [1971-find-if-path-exists-in-graph](https://github.com/DEVESH307/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
+| [3310-remove-methods-from-project](https://github.com/DEVESH307/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Shortest Path
 |  |
 | ------- |
