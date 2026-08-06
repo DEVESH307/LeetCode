@@ -411,6 +411,7 @@
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/DEVESH307/LeetCode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3115-maximum-prime-difference](https://github.com/DEVESH307/LeetCode/tree/master/3115-maximum-prime-difference) |
 | [3312-sorted-gcd-pair-queries](https://github.com/DEVESH307/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/DEVESH307/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/DEVESH307/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/DEVESH307/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/DEVESH307/LeetCode/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
@@ -1184,6 +1185,7 @@
 | ------- |
 | [0204-count-primes](https://github.com/DEVESH307/LeetCode/tree/master/0204-count-primes) |
 | [2761-prime-pairs-with-target-sum](https://github.com/DEVESH307/LeetCode/tree/master/2761-prime-pairs-with-target-sum) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/DEVESH307/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3937-minimum-operations-to-make-array-modulo-alternating-i](https://github.com/DEVESH307/LeetCode/tree/master/3937-minimum-operations-to-make-array-modulo-alternating-i) |
 ## Heap (Priority Queue)
 |  |
