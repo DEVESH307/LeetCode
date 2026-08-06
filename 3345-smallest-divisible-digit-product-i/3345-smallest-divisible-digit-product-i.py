@@ -1,16 +1,16 @@
 class Solution:
     def smallestNumber(self, n: int, t: int) -> int:
         def digit_product(num):
-            prod = 1
+            product = 1
             while num:
-                prod *= num%10
+                product *= num%10
                 num //= 10
 
-            return prod
+            return product
 
         num = n
         while True:
-            prod = digit_product(num)
-            if prod == 0 or prod % t == 0:
+            product = digit_product(num)
+            if product % t == 0:
                 return num
             num += 1
