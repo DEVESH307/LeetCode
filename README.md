@@ -403,6 +403,7 @@
 | [1390-four-divisors](https://github.com/DEVESH307/LeetCode/tree/main/Python3/Medium/1390-four-divisors/) | Medium |
 | [1486-xor-operation-in-an-array](https://github.com/DEVESH307/LeetCode/tree/master/1486-xor-operation-in-an-array) |
 | [1492-the-kth-factor-of-n](https://github.com/DEVESH307/LeetCode/tree/master/1492-the-kth-factor-of-n) |
+| [1510-stone-game-iv](https://github.com/DEVESH307/LeetCode/tree/master/1510-stone-game-iv) |
 | [1512-number-of-good-pairs](https://github.com/DEVESH307/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/DEVESH307/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DEVESH307/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -617,6 +618,7 @@
 | [0996-number-of-squareful-arrays](https://github.com/DEVESH307/LeetCode/tree/master/0996-number-of-squareful-arrays) |
 | [1143-longest-common-subsequence](https://github.com/DEVESH307/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/DEVESH307/LeetCode/tree/master/1289-minimum-falling-path-sum-ii) |
+| [1510-stone-game-iv](https://github.com/DEVESH307/LeetCode/tree/master/1510-stone-game-iv) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/DEVESH307/LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/DEVESH307/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/DEVESH307/LeetCode/tree/master/1691-maximum-height-by-stacking-cuboids) |
@@ -1299,4 +1301,24 @@
 |  |
 | ------- |
 | [1492-the-kth-factor-of-n](https://github.com/DEVESH307/LeetCode/tree/master/1492-the-kth-factor-of-n) |
+## Minimax
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/DEVESH307/LeetCode/tree/master/1510-stone-game-iv) |
+## Game Theory
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/DEVESH307/LeetCode/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/DEVESH307/LeetCode/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/DEVESH307/LeetCode/tree/master/1510-stone-game-iv) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/DEVESH307/LeetCode/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
