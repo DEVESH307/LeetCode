@@ -175,6 +175,7 @@
 | [2104-sum-of-subarray-ranges](https://github.com/DEVESH307/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/DEVESH307/LeetCode/tree/main/Python3/Medium/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/DEVESH307/LeetCode/tree/master/2183-count-array-pairs-divisible-by-k) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/DEVESH307/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/DEVESH307/LeetCode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/DEVESH307/LeetCode/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/DEVESH307/LeetCode/tree/master/2425-bitwise-xor-of-all-pairings) |
@@ -479,6 +480,7 @@
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/DEVESH307/LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2063-vowels-of-all-substrings](https://github.com/DEVESH307/LeetCode/tree/master/2063-vowels-of-all-substrings) |
 | [2129-capitalize-the-title](https://github.com/DEVESH307/LeetCode/tree/master/2129-capitalize-the-title) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/DEVESH307/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2351-first-letter-to-appear-twice](https://github.com/DEVESH307/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [3076-shortest-uncommon-substring-in-an-array](https://github.com/DEVESH307/LeetCode/tree/master/3076-shortest-uncommon-substring-in-an-array) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/DEVESH307/LeetCode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
@@ -1184,6 +1186,7 @@
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/DEVESH307/LeetCode/tree/master/0307-range-sum-query-mutable) |
 | [0493-reverse-pairs](https://github.com/DEVESH307/LeetCode/tree/master/0493-reverse-pairs) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/DEVESH307/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Ordered Set
 |  |
 | ------- |
@@ -1191,6 +1194,7 @@
 | [0493-reverse-pairs](https://github.com/DEVESH307/LeetCode/tree/master/0493-reverse-pairs) |
 | [0895-maximum-frequency-stack](https://github.com/DEVESH307/LeetCode/tree/master/0895-maximum-frequency-stack) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/DEVESH307/LeetCode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/DEVESH307/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Enumeration
 |  |
 | ------- |
