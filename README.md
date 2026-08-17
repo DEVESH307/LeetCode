@@ -124,6 +124,7 @@
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/DEVESH307/LeetCode/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0805-split-array-with-same-average](https://github.com/DEVESH307/LeetCode/tree/master/0805-split-array-with-same-average) |
 | [0821-shortest-distance-to-a-character](https://github.com/DEVESH307/LeetCode/tree/master/0821-shortest-distance-to-a-character) |
+| [0877-stone-game](https://github.com/DEVESH307/LeetCode/tree/master/0877-stone-game) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/DEVESH307/LeetCode/tree/master/0898-bitwise-ors-of-subarrays) |
 | [0904-fruit-into-baskets](https://github.com/DEVESH307/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/DEVESH307/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
@@ -401,6 +402,7 @@
 | [0779-k-th-symbol-in-grammar](https://github.com/DEVESH307/LeetCode/tree/master/0779-k-th-symbol-in-grammar) |
 | [0805-split-array-with-same-average](https://github.com/DEVESH307/LeetCode/tree/master/0805-split-array-with-same-average) |
 | [0836-rectangle-overlap](https://github.com/DEVESH307/LeetCode/tree/master/0836-rectangle-overlap) |
+| [0877-stone-game](https://github.com/DEVESH307/LeetCode/tree/master/0877-stone-game) |
 | [0878-nth-magical-number](https://github.com/DEVESH307/LeetCode/tree/master/0878-nth-magical-number) |
 | [0910-smallest-range-ii](https://github.com/DEVESH307/LeetCode/tree/master/0910-smallest-range-ii) |
 | [0973-k-closest-points-to-origin](https://github.com/DEVESH307/LeetCode/tree/master/0973-k-closest-points-to-origin) |
@@ -624,6 +626,7 @@
 | [0542-01-matrix](https://github.com/DEVESH307/LeetCode/tree/master/0542-01-matrix) |
 | [0805-split-array-with-same-average](https://github.com/DEVESH307/LeetCode/tree/master/0805-split-array-with-same-average) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/DEVESH307/LeetCode/tree/master/0847-shortest-path-visiting-all-nodes) |
+| [0877-stone-game](https://github.com/DEVESH307/LeetCode/tree/master/0877-stone-game) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/DEVESH307/LeetCode/tree/master/0898-bitwise-ors-of-subarrays) |
 | [0907-sum-of-subarray-minimums](https://github.com/DEVESH307/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [0931-minimum-falling-path-sum](https://github.com/DEVESH307/LeetCode/tree/master/0931-minimum-falling-path-sum) |
@@ -1321,10 +1324,12 @@
 ## Minimax
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/DEVESH307/LeetCode/tree/master/0877-stone-game) |
 | [1510-stone-game-iv](https://github.com/DEVESH307/LeetCode/tree/master/1510-stone-game-iv) |
 ## Game Theory
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/DEVESH307/LeetCode/tree/master/0877-stone-game) |
 | [1510-stone-game-iv](https://github.com/DEVESH307/LeetCode/tree/master/1510-stone-game-iv) |
 ## Nim Game
 |  |
@@ -1337,5 +1342,6 @@
 ## Zero-Sum Game
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/DEVESH307/LeetCode/tree/master/0877-stone-game) |
 | [1510-stone-game-iv](https://github.com/DEVESH307/LeetCode/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
