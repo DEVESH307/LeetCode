@@ -160,6 +160,7 @@
 | [1512-number-of-good-pairs](https://github.com/DEVESH307/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/DEVESH307/LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1552-magnetic-force-between-two-balls](https://github.com/DEVESH307/LeetCode/tree/main/Python3/Medium/1552-magnetic-force-between-two-balls/) | Medium |
+| [1563-stone-game-v](https://github.com/DEVESH307/LeetCode/tree/master/1563-stone-game-v) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/DEVESH307/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1572-matrix-diagonal-sum](https://github.com/DEVESH307/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/DEVESH307/LeetCode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -412,6 +413,7 @@
 | [1492-the-kth-factor-of-n](https://github.com/DEVESH307/LeetCode/tree/master/1492-the-kth-factor-of-n) |
 | [1510-stone-game-iv](https://github.com/DEVESH307/LeetCode/tree/master/1510-stone-game-iv) |
 | [1512-number-of-good-pairs](https://github.com/DEVESH307/LeetCode/tree/master/1512-number-of-good-pairs) |
+| [1563-stone-game-v](https://github.com/DEVESH307/LeetCode/tree/master/1563-stone-game-v) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/DEVESH307/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DEVESH307/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2063-vowels-of-all-substrings](https://github.com/DEVESH307/LeetCode/tree/master/2063-vowels-of-all-substrings) |
@@ -635,6 +637,7 @@
 | [1289-minimum-falling-path-sum-ii](https://github.com/DEVESH307/LeetCode/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1510-stone-game-iv](https://github.com/DEVESH307/LeetCode/tree/master/1510-stone-game-iv) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/DEVESH307/LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1563-stone-game-v](https://github.com/DEVESH307/LeetCode/tree/master/1563-stone-game-v) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/DEVESH307/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/DEVESH307/LeetCode/tree/master/1691-maximum-height-by-stacking-cuboids) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/DEVESH307/LeetCode/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
@@ -1331,6 +1334,7 @@
 | ------- |
 | [0877-stone-game](https://github.com/DEVESH307/LeetCode/tree/master/0877-stone-game) |
 | [1510-stone-game-iv](https://github.com/DEVESH307/LeetCode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/DEVESH307/LeetCode/tree/master/1563-stone-game-v) |
 ## Nim Game
 |  |
 | ------- |
