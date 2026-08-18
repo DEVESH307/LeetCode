@@ -200,6 +200,7 @@
 | [3115-maximum-prime-difference](https://github.com/DEVESH307/LeetCode/tree/master/3115-maximum-prime-difference) |
 | [3312-sorted-gcd-pair-queries](https://github.com/DEVESH307/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/DEVESH307/LeetCode/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/DEVESH307/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/DEVESH307/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3693-climbing-stairs-ii](https://github.com/DEVESH307/LeetCode/tree/master/3693-climbing-stairs-ii) |
 | [3731-find-missing-elements](https://github.com/DEVESH307/LeetCode/tree/master/3731-find-missing-elements) |
@@ -368,6 +369,7 @@
 | [3076-shortest-uncommon-substring-in-an-array](https://github.com/DEVESH307/LeetCode/tree/master/3076-shortest-uncommon-substring-in-an-array) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/DEVESH307/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/DEVESH307/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/DEVESH307/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/DEVESH307/LeetCode/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
