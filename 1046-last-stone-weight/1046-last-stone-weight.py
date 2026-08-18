@@ -9,6 +9,7 @@ class Solution:
             largest = -heapq.heappop(max_heap)
             second_largest = -heapq.heappop(max_heap)
 
-            heapq.heappush(max_heap, -(largest - second_largest))
+            if largest != second_largest:
+                heapq.heappush(max_heap, -(largest - second_largest))
 
-        return -heapq.heappop(max_heap)
+        return -max_heap[0] if max_heap else 0
