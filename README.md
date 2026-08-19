@@ -150,6 +150,7 @@
 | [1200-minimum-absolute-difference](https://github.com/DEVESH307/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/DEVESH307/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/DEVESH307/LeetCode/tree/master/1289-minimum-falling-path-sum-ii) |
+| [1386-cinema-seat-allocation](https://github.com/DEVESH307/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1390-four-divisors](https://github.com/DEVESH307/LeetCode/tree/main/Python3/Medium/1390-four-divisors/) | Medium |
 | [1394-find-lucky-integer-in-an-array](https://github.com/DEVESH307/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/DEVESH307/LeetCode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
@@ -236,6 +237,7 @@
 | [0898-bitwise-ors-of-subarrays](https://github.com/DEVESH307/LeetCode/tree/master/0898-bitwise-ors-of-subarrays) |
 | [0996-number-of-squareful-arrays](https://github.com/DEVESH307/LeetCode/tree/master/0996-number-of-squareful-arrays) |
 | [1177-can-make-palindrome-from-substring](https://github.com/DEVESH307/LeetCode/tree/master/1177-can-make-palindrome-from-substring) |
+| [1386-cinema-seat-allocation](https://github.com/DEVESH307/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1486-xor-operation-in-an-array](https://github.com/DEVESH307/LeetCode/tree/master/1486-xor-operation-in-an-array) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/DEVESH307/LeetCode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2351-first-letter-to-appear-twice](https://github.com/DEVESH307/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
@@ -348,6 +350,7 @@
 | [1122-relative-sort-array](https://github.com/DEVESH307/LeetCode/tree/master/1122-relative-sort-array) |
 | [1177-can-make-palindrome-from-substring](https://github.com/DEVESH307/LeetCode/tree/master/1177-can-make-palindrome-from-substring) |
 | [1207-unique-number-of-occurrences](https://github.com/DEVESH307/LeetCode/tree/master/1207-unique-number-of-occurrences) |
+| [1386-cinema-seat-allocation](https://github.com/DEVESH307/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/DEVESH307/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/DEVESH307/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/DEVESH307/LeetCode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
@@ -699,6 +702,7 @@
 | [0910-smallest-range-ii](https://github.com/DEVESH307/LeetCode/tree/master/0910-smallest-range-ii) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/DEVESH307/LeetCode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/DEVESH307/LeetCode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1386-cinema-seat-allocation](https://github.com/DEVESH307/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/DEVESH307/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/DEVESH307/LeetCode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [2029-stone-game-ix](https://github.com/DEVESH307/LeetCode/tree/master/2029-stone-game-ix) |
