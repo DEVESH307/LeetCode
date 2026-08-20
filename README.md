@@ -198,6 +198,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DEVESH307/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/DEVESH307/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/DEVESH307/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/DEVESH307/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3076-shortest-uncommon-substring-in-an-array](https://github.com/DEVESH307/LeetCode/tree/master/3076-shortest-uncommon-substring-in-an-array) |
 | [3115-maximum-prime-difference](https://github.com/DEVESH307/LeetCode/tree/master/3115-maximum-prime-difference) |
 | [3312-sorted-gcd-pair-queries](https://github.com/DEVESH307/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -685,6 +686,7 @@
 | [1914-cyclically-rotating-a-grid](https://github.com/DEVESH307/LeetCode/tree/master/1914-cyclically-rotating-a-grid) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/DEVESH307/LeetCode/tree/main/Python3/Medium/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2549-count-distinct-numbers-on-board](https://github.com/DEVESH307/LeetCode/tree/master/2549-count-distinct-numbers-on-board) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/DEVESH307/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Greedy
 |  |
 | ------- |
