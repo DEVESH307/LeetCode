@@ -2,9 +2,6 @@ class Solution:
     def resultArray(self, nums: List[int]) -> List[int]:
         n = len(nums)
 
-        if n <= 2:
-            return nums
-
         arr1 = [nums[0]]
         arr2 = [nums[1]]
 
