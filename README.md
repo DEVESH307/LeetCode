@@ -428,6 +428,7 @@
 | [1512-number-of-good-pairs](https://github.com/DEVESH307/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1563-stone-game-v](https://github.com/DEVESH307/LeetCode/tree/master/1563-stone-game-v) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/DEVESH307/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1927-sum-game](https://github.com/DEVESH307/LeetCode/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DEVESH307/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/DEVESH307/LeetCode/tree/master/2029-stone-game-ix) |
 | [2063-vowels-of-all-substrings](https://github.com/DEVESH307/LeetCode/tree/master/2063-vowels-of-all-substrings) |
@@ -502,6 +503,7 @@
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/DEVESH307/LeetCode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1737-change-minimum-characters-to-satisfy-one-of-three-conditions](https://github.com/DEVESH307/LeetCode/tree/master/1737-change-minimum-characters-to-satisfy-one-of-three-conditions) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/DEVESH307/LeetCode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
+| [1927-sum-game](https://github.com/DEVESH307/LeetCode/tree/master/1927-sum-game) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/DEVESH307/LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2063-vowels-of-all-substrings](https://github.com/DEVESH307/LeetCode/tree/master/2063-vowels-of-all-substrings) |
 | [2129-capitalize-the-title](https://github.com/DEVESH307/LeetCode/tree/master/2129-capitalize-the-title) |
@@ -713,6 +715,7 @@
 | [1386-cinema-seat-allocation](https://github.com/DEVESH307/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/DEVESH307/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/DEVESH307/LeetCode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
+| [1927-sum-game](https://github.com/DEVESH307/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/DEVESH307/LeetCode/tree/master/2029-stone-game-ix) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/DEVESH307/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2429-minimize-xor](https://github.com/DEVESH307/LeetCode/tree/master/2429-minimize-xor) |
@@ -1359,6 +1362,7 @@
 | [0877-stone-game](https://github.com/DEVESH307/LeetCode/tree/master/0877-stone-game) |
 | [1510-stone-game-iv](https://github.com/DEVESH307/LeetCode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/DEVESH307/LeetCode/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/DEVESH307/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/DEVESH307/LeetCode/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
